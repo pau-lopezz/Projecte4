@@ -68,8 +68,8 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 
 Aquest repositori conté tot el treball del projecte, organitzat en **dos repositoris principals**:  
 
-1. [**TASQUES**](./TASQUES) – Aquí es troben totes les tasques específiques T01–T15.  
-2. [**PRODUCTES**](./PRODUCTES) – Aquí es troben els productes finals P01–P03.  
+1. [**TASQUES**](./TASQUES) – Aquí es troben totes les tasques específiques T01–T15.  [�](./TASQUES)
+2. [**PRODUCTES**](./PRODUCTES) – Aquí es troben els productes finals P01–P03.  📁
 
 A continuació trobaràs **enllaços directes a cada tasca i producte en format de carpetes**, per accedir fàcilment als fitxers, informes i materials de cada element sense perdre’s en el contingut.
 
