@@ -4,7 +4,7 @@
 ---
 
 ## 🗓️ **Planner del projecte**
-> � Per aquí teniu l'enllaç directe per accedir al meu Planner, on estic organitzant totes les tasques i projectes. 
+> 👇 Per aquí teniu l'enllaç directe per accedir al meu Planner, on estic organitzant totes les tasques i projectes. 
 
 <p align="left">
   <a href="https://planner.cloud.microsoft/webui/plan/c1LXdC850E-7vUES_IQ-Q5YAAMam/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317" style="text-decoration: none;">
