@@ -7,7 +7,7 @@
 > Organitza les tasques, fases i objectius amb el teu Kanban digital.
 
 <a href="https://planner.cloud.microsoft/webui/plan/c1LXdC850E-7vUES_IQ-Q5YAAMam/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/🚀_ACCEDIR_PLANNER-0078D4?style=for-the-badge&logo=microsoft-planner&logoColor=white&labelColor=0078D4&color=white" alt="ACCEDIR PLANNER" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,120,212,0.3); transform: scale(3);">
+  <img src="https://img.shields.io/badge/🚀_ACCEDIR_PLANNER-0078D4?style=for-the-badge&logo=microsoft-planner&logoColor=white&labelColor=0078D4&color=white" alt="ACCEDIR PLANNER" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,120,212,0.3); transform: scale(2);">
 </a>
 
 ---
