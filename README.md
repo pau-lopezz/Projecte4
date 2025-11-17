@@ -67,17 +67,48 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 
 ## 🧩 Tasques i Productes
 
-📌 **Tasques 01–05**  
-[T01](./TASQUES/T01) · [T02](./TASQUES/T02) · [T03](./TASQUES/T03) · [T04](./TASQUES/T04) · [T05](./TASQUES/T05)
+<style>
+.folder-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  margin: 4px;
+  background: #f4c542;
+  border: 2px solid #d6a625;
+  border-radius: 6px;
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+}
+.folder-btn:hover {
+  background: #ffd75e;
+  border-color: #c7981f;
+}
+.folder-icon {
+  font-size: 18px;
+}
+</style>
 
-📌 **Tasques 06–10**  
-[T06](./TASQUES/T06) · [T07](./TASQUES/T07) · [T08](./TASQUES/T08) · [T09](./TASQUES/T09) · [T10](./TASQUES/T10)
+<p>
+<a href="./TASQUES/T01" class="folder-btn"><span class="folder-icon">📁</span> T01</a>
+<a href="./TASQUES/T02" class="folder-btn"><span class="folder-icon">📁</span> T02</a>
+<a href="./TASQUES/T03" class="folder-btn"><span class="folder-icon">📁</span> T03</a>
+<a href="./TASQUES/T04" class="folder-btn"><span class="folder-icon">📁</span> T04</a>
+<a href="./TASQUES/T05" class="folder-btn"><span class="folder-icon">📁</span> T05</a>
+<a href="./TASQUES/T06" class="folder-btn"><span class="folder-icon">📁</span> T06</a>
+<a href="./TASQUES/T07" class="folder-btn"><span class="folder-icon">📁</span> T07</a>
+<a href="./TASQUES/T08" class="folder-btn"><span class="folder-icon">📁</span> T08</a>
+<a href="./TASQUES/T09" class="folder-btn"><span class="folder-icon">📁</span> T09</a>
+<a href="./TASQUES/T10" class="folder-btn"><span class="folder-icon">📁</span> T10</a>
+<a href="./TASQUES/T11" class="folder-btn"><span class="folder-icon">📁</span> T11</a>
+<a href="./TASQUES/T12" class="folder-btn"><span class="folder-icon">📁</span> T12</a>
+<a href="./TASQUES/T13" class="folder-btn"><span class="folder-icon">📁</span> T13</a>
+<a href="./TASQUES/T14" class="folder-btn"><span class="folder-icon">📁</span> T14</a>
+<a href="./TASQUES/T15" class="folder-btn"><span class="folder-icon">📁</span> T15</a>
+</p>
 
-📌 **Tasques 11–15**  
-[T11](./TASQUES/T11) · [T12](./TASQUES/T12) · [T13](./TASQUES/T13) · [T14](./TASQUES/T14) · [T15](./TASQUES/T15)
-
-## 🎯 Productes Finals  
-[PF1](./PRODUCTES/PF1) · [PF2](./PRODUCTES/PF2) · [PF3](./PRODUCTES/PF3)
 
 
 
