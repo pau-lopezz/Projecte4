@@ -138,9 +138,9 @@ A continuació trobaràs **enllaços directes a cada tasca i producte en format 
 
 ---
 
-> ## 🙏 Gràcies per haver visitat el meu projecte!
+### 🙏 Gràcies per haver visitat el meu projecte!
 
-Moltes gràcies per accedir al repositori complet! 😄  
-Espero que trobis fàcil i interessant explorar totes les **tasques (T01–T15)** i els **productes finals (P01–P03)**.  
+> Moltes gràcies per accedir al repositori complet! 😄  
+> Espero que trobis fàcil i interessant explorar totes les **tasques (T01–T15)** i els **productes finals (P01–P03)**.  
 
-Bon visionat i gaudeix del contingut! 🚀
+> Bon visionat i gaudeix del contingut! 🚀
