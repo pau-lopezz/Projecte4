@@ -13,6 +13,12 @@ Enllaç al planner 👇<br>
 </a>
 </p>
 
+---
+
+## 📂 Accés a les tasques
+
+Totes les tasques (T01–T15) es troben dins de la carpeta [**TASQUES**](./TASQUES/).  
+Obre-la per veure l’índex complet amb descripcions i enllaços directes a cada carpeta.
 
 ---
 
