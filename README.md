@@ -67,11 +67,27 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 
 ## 🗂 **Tasques disponibles**
 
-### 🔹 [**Tasca 01**](T01) 
-### 🔹 [**Tasca 02**](T02) 
-### 🔹 [**Tasca 03**](T03) 
-### 🔹 [**Tasca 04**](T04) 
-### 🔹 [**Tasca 05**](T05) 
+| Tasca | Enllaç |
+|-------|--------|
+| Tasca 01 | [T01](T01) |
+| Tasca 02 | [T02](T02) |
+| Tasca 03 | [T03](T03) |
+| Tasca 04 | [T04](T04) |
+| Tasca 05 | [T05](T05) |
+| Tasca 06 | [T06](T06) |
+| Tasca 07 | [T07](T07) |
+| Tasca 08 | [T08](T08) |
+| Tasca 09 | [T09](T09) |
+| Tasca 10 | [T10](T10) |
+| Tasca 11 | [T11](T11) |
+| Tasca 12 | [T12](T12) |
+| Tasca 13 | [T13](T13) |
+| Tasca 14 | [T14](T14) |
+| Tasca 15 | [T15](T15) |
+| Producte Final 1 | [PF1](PF1) |
+| Producte Final 2 | [PF2](PF2) |
+| Producte Final 3 | [PF3](PF3) |
+
 
 ---
 
