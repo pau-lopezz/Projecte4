@@ -70,10 +70,10 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 <p align="center">
   <!-- Tasques T01–T15 -->
   <a href="./TASQUES/T01">
-    <img src="https://img.shields.io/badge/T01-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T01">
+    <img src="https://img.shields.io/badge/-T01-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T01">
   </a>
   <a href="./TASQUES/T02">
-    <img src="https://img.shields.io/badge/T02-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T02">
+    <img src="https://img.shields.io/badge/-T02-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T02">
   </a>
   <a href="./TASQUES/T03">
     <img src="https://img.shields.io/badge/-T03-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T03">
@@ -86,10 +86,10 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
   </a>
   <br>
   <a href="./TASQUES/T06">
-    <img src="https://img.shields.io/badge/-T06-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T06">
+    <img src="https://img.shields.io/badge/T06-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T06">
   </a>
   <a href="./TASQUES/T07">
-    <img src="https://img.shields.io/badge/-T07-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T07">
+    <img src="https://img.shields.io/badge/T07-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T07">
   </a>
   <a href="./TASQUES/T08">
     <img src="https://img.shields.io/badge/-T08-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T08">
