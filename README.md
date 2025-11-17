@@ -70,10 +70,10 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 <p align="center">
   <!-- Tasques T01–T15 -->
   <a href="./TASQUES/T01">
-    <img src="https://img.shields.io/badge/-T01-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T01">
+    <img src="https://img.shields.io/badge/T01-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T01">
   </a>
   <a href="./TASQUES/T02">
-    <img src="https://img.shields.io/badge/-T02-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T02">
+    <img src="https://img.shields.io/badge/T02-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T02">
   </a>
   <a href="./TASQUES/T03">
     <img src="https://img.shields.io/badge/-T03-FFD700?style=for-the-badge&logo=folder&logoColor=black&label=" alt="T03">
