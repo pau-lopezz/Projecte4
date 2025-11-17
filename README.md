@@ -15,13 +15,6 @@ Enllaç al planner 👇<br>
 
 ---
 
-## 📂 Accés a les tasques
-
-Totes les tasques (T01–T15) es troben dins de la carpeta [**TASQUES**](./TASQUES/).  
-Obre-la per veure l’índex complet amb descripcions i enllaços directes a cada carpeta.
-
----
-
 ## 💻 **EverPia 3: “Sobreviure en una empresa IT”**  
 
 **EverPia 3** és la tercera i última etapa del projecte EverPia.  
@@ -72,6 +65,13 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 ---
 
 ## 📁 Tasques i Productes
+
+Aquest repositori conté tot el treball del projecte, organitzat en **dos repositoris principals**:  
+
+1. [**TASQUES**](./TASQUES) – Aquí es troben totes les tasques específiques T01–T15.  
+2. [**PRODUCTES**](./PRODUCTES) – Aquí es troben els productes finals P01–P03.  
+
+A continuació trobaràs **enllaços directes a cada tasca i producte en format de carpetes**, per accedir fàcilment als fitxers, informes i materials de cada element sense perdre’s en el contingut.
 
 <p align="center">
   <!-- Tasques T01–T15 -->
