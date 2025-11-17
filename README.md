@@ -65,28 +65,20 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 
 ---
 
-## 🗂 **Tasques i Productes**
+## 🧩 Tasques i Productes
 
-| Tasca | Producte |
-|-------|----------|
-| [T01](./TASQUES/T01) |  |
-| [T02](./TASQUES/T02) |  |
-| [T03](./TASQUES/T03) |  |
-| [T04](./TASQUES/T04) |  |
-| [T05](./TASQUES/T05) |  |
-| [T06](./TASQUES/T06) |  |
-| [T07](./TASQUES/T07) |  |
-| [T08](./TASQUES/T08) |  |
-| [T09](./TASQUES/T09) |  |
-| [T10](./TASQUES/T10) |  |
-| [T11](./TASQUES/T11) |  |
-| [T12](./TASQUES/T12) |  |
-| [T13](./TASQUES/T13) |  |
-| [T14](./TASQUES/T14) |  |
-| [T15](./TASQUES/T15) |  |
-|  | [PF1](./PRODUCTES/PF1) |
-|  | [PF2](./PRODUCTES/PF2) |
-|  | [PF3](./PRODUCTES/PF3) |
+📌 **Tasques 01–05**  
+[T01](./TASQUES/T01) · [T02](./TASQUES/T02) · [T03](./TASQUES/T03) · [T04](./TASQUES/T04) · [T05](./TASQUES/T05)
+
+📌 **Tasques 06–10**  
+[T06](./TASQUES/T06) · [T07](./TASQUES/T07) · [T08](./TASQUES/T08) · [T09](./TASQUES/T09) · [T10](./TASQUES/T10)
+
+📌 **Tasques 11–15**  
+[T11](./TASQUES/T11) · [T12](./TASQUES/T12) · [T13](./TASQUES/T13) · [T14](./TASQUES/T14) · [T15](./TASQUES/T15)
+
+## 🎯 Productes Finals  
+[PF1](./PRODUCTES/PF1) · [PF2](./PRODUCTES/PF2) · [PF3](./PRODUCTES/PF3)
+
 
 
 
