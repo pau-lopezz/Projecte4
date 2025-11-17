@@ -67,49 +67,67 @@ Cada servei desplegat i cada document redactat és una passa més cap al teu fut
 
 ## 🧩 Tasques i Productes
 
-<style>
-.folder-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 8px 14px;
-  margin: 4px;
-  background: #f4c542;
-  border: 2px solid #d6a625;
-  border-radius: 6px;
-  color: #000;
-  font-weight: 600;
-  text-decoration: none;
-  font-family: Arial, sans-serif;
-}
-.folder-btn:hover {
-  background: #ffd75e;
-  border-color: #c7981f;
-}
-.folder-icon {
-  font-size: 18px;
-}
-</style>
-
-<p>
-<a href="./TASQUES/T01" class="folder-btn"><span class="folder-icon">📁</span> T01</a>
-<a href="./TASQUES/T02" class="folder-btn"><span class="folder-icon">📁</span> T02</a>
-<a href="./TASQUES/T03" class="folder-btn"><span class="folder-icon">📁</span> T03</a>
-<a href="./TASQUES/T04" class="folder-btn"><span class="folder-icon">📁</span> T04</a>
-<a href="./TASQUES/T05" class="folder-btn"><span class="folder-icon">📁</span> T05</a>
-<a href="./TASQUES/T06" class="folder-btn"><span class="folder-icon">📁</span> T06</a>
-<a href="./TASQUES/T07" class="folder-btn"><span class="folder-icon">📁</span> T07</a>
-<a href="./TASQUES/T08" class="folder-btn"><span class="folder-icon">📁</span> T08</a>
-<a href="./TASQUES/T09" class="folder-btn"><span class="folder-icon">📁</span> T09</a>
-<a href="./TASQUES/T10" class="folder-btn"><span class="folder-icon">📁</span> T10</a>
-<a href="./TASQUES/T11" class="folder-btn"><span class="folder-icon">📁</span> T11</a>
-<a href="./TASQUES/T12" class="folder-btn"><span class="folder-icon">📁</span> T12</a>
-<a href="./TASQUES/T13" class="folder-btn"><span class="folder-icon">📁</span> T13</a>
-<a href="./TASQUES/T14" class="folder-btn"><span class="folder-icon">📁</span> T14</a>
-<a href="./TASQUES/T15" class="folder-btn"><span class="folder-icon">📁</span> T15</a>
+<p align="center">
+  <!-- Tasques -->
+  <a href="./TASQUES/T01">
+    <img src="https://img.shields.io/badge/T01-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T01">
+  </a>
+  <a href="./TASQUES/T02">
+    <img src="https://img.shields.io/badge/T02-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T02">
+  </a>
+  <a href="./TASQUES/T03">
+    <img src="https://img.shields.io/badge/T03-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T03">
+  </a>
+  <a href="./TASQUES/T04">
+    <img src="https://img.shields.io/badge/T04-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T04">
+  </a>
+  <a href="./TASQUES/T05">
+    <img src="https://img.shields.io/badge/T05-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T05">
+  </a>
+  <br>
+  <a href="./TASQUES/T06">
+    <img src="https://img.shields.io/badge/T06-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T06">
+  </a>
+  <a href="./TASQUES/T07">
+    <img src="https://img.shields.io/badge/T07-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T07">
+  </a>
+  <a href="./TASQUES/T08">
+    <img src="https://img.shields.io/badge/T08-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T08">
+  </a>
+  <a href="./TASQUES/T09">
+    <img src="https://img.shields.io/badge/T09-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T09">
+  </a>
+  <a href="./TASQUES/T10">
+    <img src="https://img.shields.io/badge/T10-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T10">
+  </a>
+  <br>
+  <a href="./TASQUES/T11">
+    <img src="https://img.shields.io/badge/T11-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T11">
+  </a>
+  <a href="./TASQUES/T12">
+    <img src="https://img.shields.io/badge/T12-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T12">
+  </a>
+  <a href="./TASQUES/T13">
+    <img src="https://img.shields.io/badge/T13-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T13">
+  </a>
+  <a href="./TASQUES/T14">
+    <img src="https://img.shields.io/badge/T14-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T14">
+  </a>
+  <a href="./TASQUES/T15">
+    <img src="https://img.shields.io/badge/T15-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="T15">
+  </a>
+  <br><br>
+  <!-- Productes Finals -->
+  <a href="./PRODUCTES/P01">
+    <img src="https://img.shields.io/badge/P01-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="P01">
+  </a>
+  <a href="./PRODUCTES/P02">
+    <img src="https://img.shields.io/badge/P02-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="P02">
+  </a>
+  <a href="./PRODUCTES/P03">
+    <img src="https://img.shields.io/badge/P03-FFD700?style=for-the-badge&logo=folder&logoColor=black" alt="P03">
+  </a>
 </p>
-
-
 
 
 
