@@ -16,3 +16,6 @@ Treballant per parelles:
 | Mitjà 1 (Local) |  NAS  | Permet molta velocitat per còpies diariament. |
 | Mitjà 2 (Extern) |  Servei d´emmegatzematge al núvol |  Protegeix les dades contra un desastre físic, un incendi, inundació, etc. |
 
+---
+
+⬅️ [TORNA A FASE 1](./FASE1.MD)                                                                                                                                          [AVANÇA A FASE 3(./FASE2.MD) ➡️
