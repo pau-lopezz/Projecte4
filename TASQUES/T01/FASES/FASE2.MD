@@ -1,4 +1,4 @@
-### *Fase 2: Treball per parelles**
+### **Fase 2: Treball per parelles**
 
 Treballant per parelles:
 
