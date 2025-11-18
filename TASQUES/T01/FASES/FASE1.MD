@@ -72,29 +72,8 @@ La còpia més recent hauria d’estar al **NAS**, ja que permet una restauraci�
 
 ---
 
-<!DOCTYPE html>
-<html lang="ca">
-<head>
-  <meta charset="UTF-8">
-  <title>Fase 1</title>
-  <style>
-    .container {
-      display: flex;
-      justify-content: space-between;
-      margin: 20px;
-    }
-    button {
-      padding: 10px 20px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <button onclick="window.location.href='faselist.html'">TORNA FASES</button>
-    <button onclick="window.location.href='fase2.html'">AVANÇA FASE 2</button>
-  </div>
-</body>
-</html>
+<div style="display: flex; justify-content: space-between; margin: 20px;">
+  <a href="faselist.html">TORNA FASES</a>
+  <a href="fase2.html">AVANÇA FASE 2</a>
+</div>
 
