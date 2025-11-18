@@ -14,6 +14,8 @@ Cada participant analitzarà de forma independent el cas pràctic, prenent decis
 - La freqüència i tipus de còpia adequada (completa, incremental o diferencial) 📅.  
 - Els mitjans més eficients per emmagatzemar les còpies i la seva ubicació (local, extern o al núvol) 💿☁️.  
 
+---
+
 ### [2. Treball per Parelles 👥](./FASES/FASE2.MD)
 Les parelles compararan les seves respostes individuals i consensuaran un **esquema de còpies basat en la regla 3-2-1**:  
 - 3 còpies de les dades  
@@ -21,6 +23,8 @@ Les parelles compararan les seves respostes individuals i consensuaran un **esqu
 - 1 còpia fora del lloc físic o al núvol  
 
 Aquesta fase permet **intercanviar idees, identificar possibles errors i optimitzar les estratègies de còpia** abans de portar-les al grup complet.  
+
+---
 
 ### [3. Treball en Grup 🏢](./FASES/FASE3.MD)
 Finalment, totes les parelles presentaran els seus esquemes i el grup debatrà els **pros i contres de cada proposta**, tenint en compte:  
