@@ -39,9 +39,8 @@ Per aplicar correctament la regla 3-2-1, la millor opció és combinar diferents
 La còpia més recent hauria d’estar al **NAS**, ja que permet una restauració ràpida en cas de necessitat, mentre que la còpia al núvol assegura la recuperació davant desastres que afectin l’empresa.
 
 ---
-
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <a href="faselist.html">TORNA FASES</a>
-  <a href="fase2.html" style="margin-left:auto;">AVANÇA FASE 2</a>
+  <a href="fase2.html">AVANÇA FASE 2</a>
 </div>
 
