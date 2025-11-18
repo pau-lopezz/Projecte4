@@ -40,36 +40,4 @@ La còpia més recent hauria d’estar al **NAS**, ja que permet una restauraci�
 
 ---
 
-<!DOCTYPE html>
-<html lang="ca">
-<head>
-  <meta charset="UTF-8">
-  <title>Fase 1</title>
-  <style>
-    .container {
-      display: flex;
-      justify-content: space-between;
-      width: 100%;
-      margin: 20px 0;
-    }
-    .button {
-      padding: 10px 20px;
-      border: 1px solid black;
-      background-color: #f0f0f0;
-      text-decoration: none;
-      color: black;
-      font-weight: bold;
-      border-radius: 5px;
-    }
-    .button:hover {
-      background-color: #ddd;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <a href="faselist.html" class="button">TORNA FASES</a>
-    <a href="fase2.html" class="button">AVANÇA FASE 2</a>
-  </div>
-</body>
-</html>
+⬅️ [TORNA A L'INTRODUCCIÓ](intro.md)      [AVANÇA A FASE 2](fase2.md) ➡️
