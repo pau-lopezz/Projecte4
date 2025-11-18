@@ -69,3 +69,32 @@ Per aplicar correctament la regla 3-2-1, la millor opció és combinar diferents
 5. **Còpia 2**: al núvol (ubicació fora de l’empresa, mitjà diferent).
 
 La còpia més recent hauria d’estar al **NAS**, ja que permet una restauració ràpida en cas de necessitat, mentre que la còpia al núvol assegura la recuperació davant desastres que afectin l’empresa.
+
+---
+
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <title>Fase 1</title>
+  <style>
+    .container {
+      display: flex;
+      justify-content: space-between;
+      margin: 20px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <button onclick="window.location.href='faselist.html'">TORNA FASES</button>
+    <button onclick="window.location.href='fase2.html'">AVANÇA FASE 2</button>
+  </div>
+</body>
+</html>
+
