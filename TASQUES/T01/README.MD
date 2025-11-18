@@ -22,8 +22,6 @@ Les parelles compararan les seves respostes individuals i consensuaran un **esqu
 - 2 tipus de mitjans diferents  
 - 1 còpia fora del lloc físic o al núvol  
 
-Aquesta fase permet **intercanviar idees, identificar possibles errors i optimitzar les estratègies de còpia** abans de portar-les al grup complet.  
-
 ---
 
 ### [3. Treball en Grup 🏢](./FASES/FASE3.MD)
@@ -39,5 +37,3 @@ Amb aquesta discussió, el grup redactarà la **Política de Còpies de Segureta
 - Estratègia de recuperació per complir amb RTO i RPO  
 
 ---
-
-Aquest enfocament permet **aplicar de manera pràctica els conceptes de recuperació davant desastres (DRP)**, garantint que l’empresa disposi de dades protegides i recuperables en cas de fallades del sistema, errors humans o incidents imprevistos.
