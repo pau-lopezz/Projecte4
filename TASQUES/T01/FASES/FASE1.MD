@@ -18,15 +18,15 @@ La primera hora el vostre responsable de seguretat us presenta el tema de les c�
 
 - 10 Equips Clients (Windows 10/11): Els usuaris treballen majoritàriament amb fitxers del servidor, però alguns tècnics guarden de forma temporal informes i altres arxius importants a la carpeta Documents.
 
--         Connexió a Internet: Fibra òptica de 600 Mbps (simètrica).
+- Connexió a Internet: Fibra òptica de 600 Mbps (simètrica).
 
 ### **Requisits de Recuperació:**
 
--         Temps de Recuperació (RTO): Les dades de Comptabilitat/Clients han d'estar disponibles en menys de 4 hores.
+- Temps de Recuperació (RTO): Les dades de Comptabilitat/Clients han d'estar disponibles en menys de 4 hores.
 
--         Pèrdua de Dades Admesa (RPO): Es pot admetre una pèrdua màxima de 24 hores per a la majoria de dades, però les dades de Comptabilitat/Clients no poden perdre més de 4 hores de treball.
+- Pèrdua de Dades Admesa (RPO): Es pot admetre una pèrdua màxima de 24 hores per a la majoria de dades, però les dades de Comptabilitat/Clients no poden perdre més de 4 hores de treball.
 
--         Retenció: Cal guardar les dades amb un historial d'almenys un mes.
+- Retenció: Cal guardar les dades amb un historial d'almenys un mes.
 
 ---
 
