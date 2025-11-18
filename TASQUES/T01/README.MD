@@ -10,7 +10,7 @@ La tasca es desenvolupa a través d’una **dinàmica cooperativa en tres fases*
 
 #
 
-### [1. Treball Individual 👤](./T01/FASES/FASE1.MD)
+### [1. Treball Individual 👤](./FASES/FASE1.MD)
 Cada participant analitzarà de forma independent el cas pràctic, prenent decisions sobre:  
 - Quines dades són crítiques i han de ser copiades primer 🗂️.  
 - La freqüència i tipus de còpia adequada (completa, incremental o diferencial) 📅.  
@@ -18,7 +18,7 @@ Cada participant analitzarà de forma independent el cas pràctic, prenent decis
 
 ---
 
-### [2. Treball per Parelles 👥](./T01/FASES/FASE2.MD)
+### [2. Treball per Parelles 👥](./FASES/FASE2.MD)
 Les parelles compararan les seves respostes individuals i consensuaran un **esquema de còpies basat en la regla 3-2-1**:  
 - 3 còpies de les dades  
 - 2 tipus de mitjans diferents  
@@ -26,7 +26,7 @@ Les parelles compararan les seves respostes individuals i consensuaran un **esqu
 
 ---
 
-### [3. Treball en Grup 🏢](./T01/FASES/FASE3.MD)
+### [3. Treball en Grup 🏢](./FASES/FASE3.MD)
 Finalment, totes les parelles presentaran els seus esquemes i el grup debatrà els **pros i contres de cada proposta**, tenint en compte:  
 - Cost i temps necessari per realitzar les còpies 💰⏳  
 - Seguretat i fiabilitat de cada mitjà 🔒  
