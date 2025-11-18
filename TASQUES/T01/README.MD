@@ -8,6 +8,8 @@ L’objectiu principal és garantir que les dades crítiques de l’empresa esti
 
 La tasca es desenvolupa a través d’una **dinàmica cooperativa en tres fases**, pensada per fomentar el treball individual, la col·laboració per parelles i la presa de decisions en grup:
 
+#
+
 ### [1. Treball Individual 👤](./FASES/FASE1.MD)
 Cada participant analitzarà de forma independent el cas pràctic, prenent decisions sobre:  
 - Quines dades són crítiques i han de ser copiades primer 🗂️.  
