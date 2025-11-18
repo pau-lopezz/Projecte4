@@ -50,16 +50,16 @@ Per aplicar correctament la regla 3-2-1, la millor opció és combinar diferents
 
 - **Mitjans de còpia:**
 
-  1. **NAS**: Permet tenir les còpies més recents i recuperar-les ràpidament en cas de fallada local.
+1. **NAS**: Permet tenir les còpies més recents i recuperar-les ràpidament en cas de fallada local.
 
-  2. **Cloud**: Actua com a còpia offsite, protegint les dades davant incendis, robatoris o avaries greus.
+2. **Cloud**: Actua com a còpia offsite, protegint les dades davant incendis, robatoris o avaries greus.
 
 - **Ubicació segons la regla 3-2-1:**
 
-  3. **Dades originals**: al servidor de l’empresa.
+3. **Dades originals**: al servidor de l’empresa.
 
-  4. **Còpia 1**: al NAS dins de l’empresa (mitjà diferent del servidor).
+4. **Còpia 1**: al NAS dins de l’empresa (mitjà diferent del servidor).
 
-  5. **Còpia 2**: al núvol (ubicació fora de l’empresa, mitjà diferent).
+5. **Còpia 2**: al núvol (ubicació fora de l’empresa, mitjà diferent).
 
 La còpia més recent hauria d’estar al **NAS**, ja que permet una restauració ràpida en cas de necessitat, mentre que la còpia al núvol assegura la recuperació davant desastres que afectin l’empresa.
