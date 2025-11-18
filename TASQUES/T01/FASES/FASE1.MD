@@ -40,4 +40,4 @@ La còpia més recent hauria d’estar al **NAS**, ja que permet una restauraci�
 
 ---
 
-⬅️ [TORNA A L'INTRODUCCIÓ](./FASES/)      [AVANÇA A FASE 2](./FASE2.MD) ➡️
+⬅️ [TORNA A L'INTRODUCCIÓ](.)      [AVANÇA A FASE 2](./FASE2.MD) ➡️
