@@ -15,6 +15,7 @@ La primera hora el vostre responsable de seguretat us presenta el tema de les c�
 
     o   Carpetes Personals dels Usuaris: Per a la feina diària (100 GB).
 
+
 - 10 Equips Clients (Windows 10/11): Els usuaris treballen majoritàriament amb fitxers del servidor, però alguns tècnics guarden de forma temporal informes i altres arxius importants a la carpeta Documents.
 
 -         Connexió a Internet: Fibra òptica de 600 Mbps (simètrica).
