@@ -1,12 +1,12 @@
-**Introducció**
+## **Introducció**
 
 La primera hora el vostre responsable de seguretat us presenta el tema de les còpies de seguretat a partir d’un material didàctic. A continuació, caldrà que hi treballeu els aspectes del tema i ho fareu mitjançant una dinàmica cooperativa.
 
-**Presentació del cas client**
+### **Presentació del cas client**
 
 "Muntatges i Serveis Tècnics SL" és una petita empresa dedicada a la instal·lació i manteniment d'equips industrials.
 
-**Infraestructura** **Tècnica**:
+### **Infraestructura** **Tècnica**:
 
 ·         Servidor de Fitxers (Ubuntu Server): Conté tota la documentació crítica:
 
@@ -20,7 +20,7 @@ o   Carpetes Personals dels Usuaris: Per a la feina diària (100 GB).
 
 ·         Connexió a Internet: Fibra òptica de 600 Mbps (simètrica).
 
-**Requisits de Recuperació:**
+### **Requisits de Recuperació:**
 
 ·         Temps de Recuperació (RTO): Les dades de Comptabilitat/Clients han d'estar disponibles en menys de 4 hores.
 
