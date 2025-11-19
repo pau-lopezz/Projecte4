@@ -70,7 +70,9 @@ Hem separat Servidor/Clients i dades Crítiques/No Crítiques per prioritzar la 
 * **2 mitjans diferents:** NAS local i Cloud.  
 * **1 fora de lloc:** Cloud Azure per protecció davant desastres físics.
 
-6. # **Estratègies de recuperació** {#estratègies-de-recuperació}
+---
+
+### 6. Estratègies de recuperació
 
 | TIPUS DE DADA | RPO | RTO | Estratègia |
 | ----- | ----- | ----- | ----- |
@@ -82,13 +84,11 @@ Hem separat Servidor/Clients i dades Crítiques/No Crítiques per prioritzar la 
 
 * El **RTO de 4 hores** s’assegura amb restauracions prioritàries locals i accés immediat a còpia Cloud en cas de desastre.
 
+---
+
 7. # **Conclusió:** {#conclusió:}
 
 L’estratègia proposada proporciona un pla de backup robust i escalable, combinant còpies locals i externes per minimitzar riscos. La definició clara de freqüències, tipus de còpia i responsabilitats assegura que les dades crítiques estiguin protegides i recuperables dins dels límits establerts. Mitjançant aquesta planificació, l’empresa disposa d’un sistema de recuperació fiable que garanteix la continuïtat operativa, redueix la possibilitat de pèrdua de dades i compleix amb els requisits de seguretat i normativa vigent.
-
----
-
-
 
 ---
 
