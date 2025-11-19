@@ -1,13 +1,12 @@
 ## **Fase 3: Treball per grups**
 
----
-
 ### 1. Introducció:
 
 Aquest document descriu l’estratègia de còpia de seguretat i recuperació de dades del nostre entorn IT, amb l’objectiu de garantir la disponibilitat i integritat de la informació crítica. S’han identificat les dades a protegir, la freqüència de les còpies, els mitjans i ubicacions utilitzats, així com els procediments de recuperació davant incidències. La metodologia segueix la Regla 3-2-1 i assegura que les dades de comptabilitat i clients compleixin els requisits de RPO i RTO de 4 hores, garantint així la continuïtat del negoci davant qualsevol eventualitat.  
+
 ---
 
-2. # **Índex:** {#índex:}
+### 2. Índex:
 
 [**1\. Introducció:	1**](#introducció:)
 
