@@ -8,7 +8,7 @@ Aquest document descriu l’estratègia de còpia de seguretat i recuperació de
 
 ### 2. Índex:
 
-[**1\. Introducció:	1**](#introducció:)
+[**1. Introducció:	)
 
 [**2\. Índex:	1**](#índex:)
 
