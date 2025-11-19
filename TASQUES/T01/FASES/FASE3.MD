@@ -8,19 +8,14 @@ Aquest document descriu l’estratègia de còpia de seguretat i recuperació de
 
 ### 2. Índex:
 
-[**1. Introducció:	)
+   1. Introducció:
+   2. Índex:
+   3. Dades Objectes de còpia:	
+   4. Cronograma Setmanal detallat	
+   5. Elecció de mitjans i ubicació	
+   6. Estratègies de recuperació	
+   7. Conclusió:	
 
-[**2\. Índex:	1**](#índex:)
-
-[**3\. Dades Objectes de còpia:	2**](#dades-objectes-de-còpia:)
-
-[**4\. Cronograma Setmanal detallat	2**](#cronograma-setmanal-detallat)
-
-[**5\. Elecció de mitjans i ubicació	3**](#elecció-de-mitjans-i-ubicació)
-
-[**6\. Estratègies de recuperació	4**](#estratègies-de-recuperació)
-
-[**7\. Conclusió:	4**](#conclusió:)
 
 ---
 
