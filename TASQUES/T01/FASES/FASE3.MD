@@ -34,7 +34,9 @@ Ho em volgut realitzar amb tipo taula, ja que ens semblava més resumit i visibl
 
 Hem separat Servidor/Clients i dades Crítiques/No Crítiques per prioritzar la recuperació.
 
-4. # **Cronograma Setmanal detallat** {#cronograma-setmanal-detallat}
+---
+
+### 4. Cronograma Setmanal detallat
 
 | Dia | Dades | Tipus de còpia | Mitjà |
 | :---- | :---- | :---- | :---- |
@@ -52,7 +54,9 @@ Hem separat Servidor/Clients i dades Crítiques/No Crítiques per prioritzar la 
 | **Diumenge** | Fitxers compartits | Completa | Cloud Extern |
 |  | Configuracions clients | Completa | Cloud Extern |
 
-5. # **Elecció de mitjans i ubicació** {#elecció-de-mitjans-i-ubicació}
+---
+
+### 5. Elecció de mitjans i ubicació 
 
 | Mitjà | Descripció | Ubicació | Responsable |
 | ----- | ----- | ----- | ----- |
