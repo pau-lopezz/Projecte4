@@ -19,7 +19,7 @@ Aquest document descriu l’estratègia de còpia de seguretat i recuperació de
 
 ---
 
-3. # **Dades Objectes de còpia:** {#dades-objectes-de-còpia:}
+### 3. Dades Objectes de còpia:
 
 Ho em volgut realitzar amb tipo taula, ja que ens semblava més resumit i visible:
 
