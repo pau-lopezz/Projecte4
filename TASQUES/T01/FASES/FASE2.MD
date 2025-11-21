@@ -18,4 +18,4 @@ Treballant per parelles:
 
 ---
 
-⬅️ [TORNA A FASE 1](./FASE1.MD)                                                                                                                                          [AVANÇA A FASE 3(./FASE3.MD) ➡️
+⬅️ [TORNA A FASE 1](./FASE1.MD)                                                                                                                                          [AVANÇA A FASE 3](./FASE3.MD) ➡️
