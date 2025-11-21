@@ -86,7 +86,7 @@ Hem separat Servidor/Clients i dades Crítiques/No Crítiques per prioritzar la 
 
 ---
 
-7. # **Conclusió:** {#conclusió:}
+### 7. Conclusió:
 
 L’estratègia proposada proporciona un pla de backup robust i escalable, combinant còpies locals i externes per minimitzar riscos. La definició clara de freqüències, tipus de còpia i responsabilitats assegura que les dades crítiques estiguin protegides i recuperables dins dels límits establerts. Mitjançant aquesta planificació, l’empresa disposa d’un sistema de recuperació fiable que garanteix la continuïtat operativa, redueix la possibilitat de pèrdua de dades i compleix amb els requisits de seguretat i normativa vigent.
 
