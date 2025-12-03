@@ -22,4 +22,4 @@ En aquest projecte configurarem un servidor NFSv3 i un client Linux per centrali
 ## 📎 Accés a la tasca
 Pots consultar tots els detalls, captures i explicacions completes a l’informe del projecte:
 
-👉 [**Enllaç a la tasca:**](./T09/SOLUCIO.MD)
+👉 [**Enllaç a la tasca**](./SOLUCIO.MD)
