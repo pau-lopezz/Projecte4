@@ -7,21 +7,19 @@ En aquest projecte configurarem un servidor NFSv3 i un client Linux per centrali
 
 ## 🏗️ Fases del projecte
 
-### 🖥️ Fase 1 – Preparació de l’entorn
+### 🖥️ Fase 1 – Preparació de l'entorn
 
-### 👥 Fase 2 – Creació d’usuaris, grups i directoris
+### 👥 Fase 2 – Preparació del servidor
 
-### 📤 Fase 3 – Configuració d’exportacions NFS
+### 📤 Fase 3 – L'Exportació d'Administració (El Dilema del root_squash)
 
-### 🔀 Fase 4 – Control d’accés (rw/ro per IP)
+### 🔀 Fase 4 – L'Exportació de Desenvolupament (Permisos rw vs ro)
 
-### 🔗 Fase 5 – Muntatge manual i automàtic
-
-### 🧠 Fase 6 – Conclusions i recomanacions
+### 🔗 Fase 5 – Muntatge Automàtic amb /etc/fstab
 
 ---
 
 ## 📎 Accés a la tasca
 Pots consultar tots els detalls, captures i explicacions completes a l’informe del projecte:
-
-👉 **Enllaç a la tasca:** _[Afegeix aquí l’enllaç al teu document, repositori o PDF]_
+MD
+👉 **Enllaç a la tasca:** (Enllaç)[./T09/SOLUCIO.MD]
