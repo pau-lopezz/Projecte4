@@ -6,7 +6,7 @@ L’objectiu és garantir còpies fiables, segures i recuperables seguint l’es
 
 #
 
-### 🟦 Part 1: Còpies de Seguretat en Windows 💻
+### [🟦 Part 1: Còpies de Seguretat en Windows 💻](./GUIES/GUIAWINDOWS.MD)
 
 S’ha d’implementar una política especial per a l’equip del director, que necessita còpies locals i al núvol.
 
@@ -28,7 +28,7 @@ S’ha d’implementar una política especial per a l’equip del director, que 
 
 ---
 
-### 🟩 Part 2: Còpies al Servidor Linux 🐧
+### [🟩 Part 2: Còpies al Servidor Linux 🐧](./GUIES/GUIASERVER.MD)
 
 Per al servidor s’utilitzarà **Duplicity** amb scripts i planificació via **cron**.
 
