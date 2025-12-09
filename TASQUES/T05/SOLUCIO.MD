@@ -5,6 +5,6 @@ amfitrió
 ![image](./IMG/image1.png)
 
 Per instal·lar SSH, primer actualitzem el sistema amb:
-`
+```bash
 sudo apt upgrade && sudo apt update
-`
+
