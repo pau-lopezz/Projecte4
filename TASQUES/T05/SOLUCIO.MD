@@ -8,5 +8,4 @@ Per instal·lar SSH, primer actualitzem el sistema amb:
 ```bash 
 sudo apt upgrade && sudo apt update
 ```
-
-![image](./IMG/image1.png)
+![image](./IMG/image2.png)
