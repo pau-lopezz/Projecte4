@@ -28,9 +28,7 @@ Implementarem una política de còpies per a l’equip del director, combinant c
 
 ### [🟩 Part 2: Còpies al Servidor Linux 🐧](./GUIES/GUIASERVER.MD)
 
-Per al servidor s’utilitzarà **Duplicity** amb scripts i planificació via **cron**.
-
-#
+El servidor utilitzarà **Duplicity** amb scripts propis i planificació via **cron** per generar còpies completes i incrementals del directori `/home`, utilitzant un disc auxiliar muntat manualment.
 
 ### Objectius 🎯
 - Realitzar còpies completes i incrementals de `/home`.  
