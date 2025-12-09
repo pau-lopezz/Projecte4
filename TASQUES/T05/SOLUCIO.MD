@@ -104,6 +104,7 @@ ssh -D 9876 usuari@192.168.56.101
 ---
 
 Ara configurarem un túnel SOCKS
+
 ![image](./IMG/image14.png)
 
 ---
