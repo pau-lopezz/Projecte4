@@ -22,15 +22,15 @@ En aquesta pràctica configurem un servidor SSH en Ubuntu i hi accedim des de Wi
 <hr style="border:0.5px solid #ccc;" />
 
 ### 🪟 Fase 3 – Connexió des de Windows
--Connexió SSH bàsica amb PowerShell
--Validació del host amb hostname
--Gestió d’errors d’autenticació i permisos
+- Connexió SSH bàsica amb PowerShell
+- Validació del host amb hostname
+- Gestió d’errors d’autenticació i permisos
 <hr style="border:0.5px solid #ccc;" />
 
 ### 🔀 Fase 4 – Creació d’un Túnel SOCKS
--Connexió SSH amb redirecció dinàmica
--Configuració del proxy a Windows
--Validació del trànsit a Wireshark
+- Connexió SSH amb redirecció dinàmica
+- Configuració del proxy a Windows
+- Validació del trànsit a Wireshark
 <hr style="border:0.5px solid #ccc;" />
 
 ### 🔑 Fase 5 – Accés sense Contrasenya (Claus SSH)
