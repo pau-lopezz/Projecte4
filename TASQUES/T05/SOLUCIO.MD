@@ -136,6 +136,7 @@ I per veure-la:
 type $env:USERPROFILE\.ssh\id_ed25519.pub
 # Molt important fer Ctrl + C perquè la necessitarem despres
 ```
+![image](./IMG/image18.png)
 
 ---
 
@@ -146,5 +147,22 @@ Comandes a seguir en ordre:
 ```bash 
 mkdir -p ~/.ssh
 sudo chmod 700 ~/.ssh
-sudo nano ~/.ssh/authorized_keys # En aquest arxiu enganxarem la key que hem generat
+sudo nano ~/.ssh/authorized_keys # En aquest arxiu enganxarem la key que hem generat i hem copiat anteriorment
+cat ~/.ssh/authorized_keys
+sudo chmod 600 ~/.ssh/authorized_keys
 ```
+
+![image](./IMG/image19.png)
+![image](./IMG/image20.png)
+![image](./IMG/image21.png)
+
+---
+
+Ara ens podem connectar sense haver introduït manualment la contrasenya.
+```bash 
+ssh -i $env:USERPROFILE\.ssh\id_ed25519 usuari@192.168.56.101
+```
+![image](./IMG/image22.png)
+
+
+---
