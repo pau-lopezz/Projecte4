@@ -12,6 +12,7 @@ En aquesta pràctica configurem un servidor SSH en Ubuntu i hi accedim des de Wi
 - Instal·lació i activació del servei OpenSSH
 - Comprovació d’estat del servei
 
+
 ### 🪪 Fase 2 – Configuració i Seguretat del Servei SSH
 - Edició del fitxer sshd_config
 - Desactivació del login de root
