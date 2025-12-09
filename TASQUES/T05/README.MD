@@ -8,6 +8,7 @@ En aquesta pràctica configurem un servidor SSH en Ubuntu i hi accedim des de Wi
 ## 🏗️ Fases del projecte
 
 ### 🖥️ Fase 1 – Preparació de l’Entorn
+
 - Configuració de xarxa: NAT + Host-Only
 - Instal·lació i activació del servei OpenSSH
 - Comprovació d’estat del servei
