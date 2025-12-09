@@ -10,8 +10,6 @@ L’objectiu és garantir còpies fiables, segures i recuperables seguint l’es
 
 S’ha d’implementar una política especial per a l’equip del director, que necessita còpies locals i al núvol.
 
-#
-
 ### Objectius 🎯
 - Seguir l’esquema **3-2-1** (disc secundari + Google Drive).  
 - Fer una **còpia cada hora local** ⏱️.  
