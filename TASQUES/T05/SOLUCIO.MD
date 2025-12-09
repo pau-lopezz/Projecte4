@@ -18,3 +18,11 @@ Un cop hagin acabat l’update i l’upgrade, ja podem instal·lar SSH.
 ```bash 
 sudo apt install ssh -y
 ```
+
+---
+
+És molt important iniciar el servei SSH i comprovar-ne l’estat. Per això fem:
+```bash 
+sudo systemctl start ssh
+sudo systemctl status ssh
+```
