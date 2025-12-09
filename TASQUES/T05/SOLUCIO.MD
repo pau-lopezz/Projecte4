@@ -110,6 +110,7 @@ Ara configurarem un túnel SOCKS
 ---
 
 Desactivem les dues opcions de configuració automàtica i activem l’opció de servidor proxy
+
 ![image](./IMG/image15.png)
 
 ---
