@@ -8,7 +8,7 @@ L’objectiu és garantir còpies fiables, segures i recuperables seguint l’es
 
 ### [🟦 Part 1: Còpies de Seguretat en Windows 💻](./GUIES/GUIAWINDOWS.MD)
 
-S’ha d’implementar una política especial per a l’equip del director, que necessita còpies locals i al núvol.
+Implementarem una política de còpies per a l’equip del director, combinant còpies locals per a recuperacions ràpides i còpies al núvol per garantir seguretat addicional. Utilitzarem una màquina Windows amb un disc secundari i Duplicati per automatitzar i validar tot el procés.
 
 ### Objectius 🎯
 - Seguir l’esquema **3-2-1** (disc secundari + Google Drive).  
