@@ -2,6 +2,7 @@
 
 ### Introducció 📝
 En aquesta tasca posarem en pràctica la política de còpies per al client **Muntatges i Serveis Tècnics SL**, creant guies tècniques per Windows i Linux.  
+
 L’objectiu és garantir còpies fiables, segures i recuperables seguint l’esquema **3-2-1**.
 
 #
