@@ -2,4 +2,4 @@
 
 ---
 
-1[image](imatge1.png)
+![image](imatge1.png)
