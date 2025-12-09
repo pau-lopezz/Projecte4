@@ -74,7 +74,7 @@ connexions com a root.
 Ara creem una llista d’usuaris autoritzats per SSH modificant l’arxiu anterior i afegint la línia
 corresponent. Els usuaris s’han d’escriure separats per comes.
 ```bash 
-**AllowUsers (nomusuari)**
+AllowUsers (nomusuari)
 ```
 ![image](./IMG/image10.png)
 
@@ -134,4 +134,17 @@ ssh-keygen -t ed25519
 I per veure-la:
 ```bash 
 type $env:USERPROFILE\.ssh\id_ed25519.pub
+# Molt important fer Ctrl + C perquè la necessitarem despres
+```
+
+---
+
+Ara des del servidor crearem un directori on només el propietari tingui permisos, on
+guardarem la key a authorized_keys.
+
+Comandes a seguir en ordre:
+```bash 
+mkdir -p ~/.ssh
+sudo chmod 700 ~/.ssh
+sudo nano ~/.ssh/authorized_keys # En aquest arxiu enganxarem la key que hem generat
 ```
