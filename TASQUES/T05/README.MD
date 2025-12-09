@@ -19,34 +19,27 @@ En aquesta pràctica configurem un servidor SSH en Ubuntu i hi accedim des de Wi
 - Limitació d’usuaris amb AllowUsers
 - Reinici i validació de canvis
 
-🪟 Fase 3 – Connexió des de Windows
 
-Connexió SSH bàsica amb PowerShell
 
-Validació del host amb hostname
 
-Gestió d’errors d’autenticació i permisos
+### 🪟 Fase 3 – Connexió des de Windows
+-Connexió SSH bàsica amb PowerShell
+-Validació del host amb hostname
+-Gestió d’errors d’autenticació i permisos
 
-🔀 Fase 4 – Creació d’un Túnel SOCKS
+### 🔀 Fase 4 – Creació d’un Túnel SOCKS
+-Connexió SSH amb redirecció dinàmica
+-Configuració del proxy a Windows
+-Validació del trànsit a Wireshark
 
-Connexió SSH amb redirecció dinàmica
+### 🔑 Fase 5 – Accés sense Contrasenya (Claus SSH)
+- Generació de claus SSH amb PowerShell
+- Creació del directori .ssh al servidor
+- Inserció i protecció de authorized_keys
+- Connexió final utilitzant la clau privada
 
-Configuració del proxy a Windows
-
-Validació del trànsit a Wireshark
-
-🔑 Fase 5 – Accés sense Contrasenya (Claus SSH)
-
-Generació de claus SSH amb PowerShell
-
-Creació del directori .ssh al servidor
-
-Inserció i protecció de authorized_keys
-
-Connexió final utilitzant la clau privada
+---
 
 📎 Accés a la tasca
-
 Tots els detalls, explicacions i captures estan disponibles a l’informe complet de la pràctica:
-
-👉 Enllaç a la tasca (afegeix-lo aquí)
+👉 [**Enllaç a la tasca**](./SOLUCIO.MD)
