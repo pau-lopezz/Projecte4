@@ -47,6 +47,6 @@ Per al servidor s’utilitzarà **Duplicity** amb scripts i planificació via **
 5. Crear els scripts:
    - `fullbackup.sh` → **diumenge 23:00**  
    - `incrementalbackup.sh` → **dilluns–dissabte 23:00**  
-6. **Muntar abans de copiar** i **desmuntar al final** 🔒.
+6. Muntar abans de copiar** i **desmuntar al final 🔒.
 
 ---
