@@ -43,4 +43,5 @@ En aquesta pràctica configurem un servidor SSH en Ubuntu i hi accedim des de Wi
 
 📎 Accés a la tasca
 Tots els detalls, explicacions i captures estan disponibles a l’informe complet de la pràctica:
+
 👉 [**Enllaç a la tasca**](./SOLUCIO.MD)
