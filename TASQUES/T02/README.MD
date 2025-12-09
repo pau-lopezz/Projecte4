@@ -22,8 +22,8 @@ S’ha d’implementar una política especial per a l’equip del director, que 
 1. Crear una **VM Windows 11** amb disc secundari de 10 GB.  
 2. Instal·lar **Duplicati**.  
 3. Configurar dos plans de còpia:
-   - **Local** → còpia horària.  
-   - **Google Drive** → còpia diària a les 18:00.  
+   - `Local` → **còpia horària.**  
+   - `Google Drive` → **còpia diària a les 18:00.**  
 4. Afegir fitxers, fer proves de còpia i restaurar tant localment com des del núvol.
 
 ---
