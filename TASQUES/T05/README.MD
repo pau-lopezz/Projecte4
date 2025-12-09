@@ -2,6 +2,7 @@
 
 ## 📝 Descripció
 En aquesta pràctica configurem un servidor SSH en Ubuntu i hi accedim des de Windows per aprendre a establir connexions remotes segures. Implementarem millores de seguretat com la desactivació del login de root, la restricció d’usuaris i l’ús de claus SSH. També configurarem un túnel SOCKS i comprovarem el trànsit amb Wireshark. 
+
 ---
 
 ## 🏗️ Fases del projecte
