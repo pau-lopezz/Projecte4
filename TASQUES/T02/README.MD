@@ -5,7 +5,7 @@ En aquesta tasca posarem en pràctica la política de còpies per al client **Mu
 
 L’objectiu és garantir còpies fiables, segures i recuperables seguint l’esquema **3-2-1**.
 
-#
+---
 
 ### [🟦 Part 1: Còpies de Seguretat en Windows 💻](./GUIES/GUIAWINDOWS.MD)
 
