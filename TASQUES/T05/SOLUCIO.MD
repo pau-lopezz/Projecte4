@@ -56,9 +56,11 @@ Per desactivar l’ús de root en connexions SSH i tenir més seguretat, haurem 
 **/etc/ssh/sshd_config**
 
 Traiem el # de la línia Port 22
+
 ![image](./IMG/image7.png)
 
 I també eliminem el # d’aquestes 4 opcions
+
 ![image](./IMG/image8.png)
 
 ---
