@@ -10,6 +10,8 @@ L’objectiu és garantir còpies fiables, segures i recuperables seguint l’es
 
 S’ha d’implementar una política especial per a l’equip del director, que necessita còpies locals i al núvol.
 
+#
+
 ### Objectius 🎯
 - Seguir l’esquema **3-2-1** (disc secundari + Google Drive).  
 - Fer una **còpia cada hora local** ⏱️.  
@@ -30,6 +32,8 @@ S’ha d’implementar una política especial per a l’equip del director, que 
 
 Per al servidor s’utilitzarà **Duplicity** amb scripts i planificació via **cron**.
 
+#
+
 ### Objectius 🎯
 - Realitzar còpies completes i incrementals de `/home`.  
 - Utilitzar un **disc auxiliar** muntat manualment.  
@@ -45,4 +49,4 @@ Per al servidor s’utilitzarà **Duplicity** amb scripts i planificació via **
    - `incrementalbackup.sh` → **dilluns–dissabte 23:00**  
 6. **Muntar abans de copiar** i **desmuntar al final** 🔒.
 
-
+---
