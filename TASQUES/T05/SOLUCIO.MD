@@ -114,6 +114,7 @@ Desactivem les dues opcions de configuració automàtica i activem l’opció de
 ---
 
 Després accedim a Opciones avanzadas i modifiquem la configuració dels SOCKS
+
 ![image](./IMG/image16.png)
 
 ---
@@ -121,6 +122,7 @@ Després accedim a Opciones avanzadas i modifiquem la configuració dels SOCKS
 Amb wireshark comprovem que tot el trànsit que generem s’envia per SSH al servidor.
 Podem veure que entre 127.0.2.7 (CLIENT) i 192.168.56.101 (SERVIDOR) hi han
 comunicacions
+
 ![image](./IMG/image17.png)
 
 ---
