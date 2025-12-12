@@ -39,6 +39,7 @@ A més, cal disposar d’un compte personal de Google amb accés a Google Drive,
 
 #### 2.2 Inicialitzar i formatar el disc nou
 1. Obre l’eina de gestió de discs
+
    Prem Win + R, escriu diskmgmt.msc i confirma amb Enter.
 
 2. Identifica el disc afegit
