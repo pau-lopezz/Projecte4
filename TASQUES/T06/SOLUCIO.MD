@@ -99,6 +99,5 @@ En conjunt, aquesta tasca ens ajuda a entendre una situació molt habitual en l�
 ### 🏁 Final de la tasca
 
 Gràcies per veure la meva tasca! 🙌
-Si vols continuar revisant més activitats o tornar enrere:
 
-🔙 [Torna enrere](./README.MD)
+Si vols continuar revisant més activitats o tornar enrere: 🔙 [Torna enrere](./README.MD)
