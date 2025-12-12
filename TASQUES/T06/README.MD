@@ -32,7 +32,6 @@ Aquesta pràctica simula situacions reals de suport tècnic on el consultor ha d
 - Canviar la contrasenya generada i reiniciar
 - A Windows, obrir Conexión a Escritorio Remoto i connectar a hostname.local
 - Acceptar certificat i iniciar sessió
-<hr style="border:0.5px solid #ccc;" />
 
 ---
 
