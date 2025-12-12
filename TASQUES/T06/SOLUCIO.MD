@@ -7,6 +7,8 @@ Primer, cal instal·lar i configurar les dues màquines, tant la de Windows com 
 
 ![image](./IMG/2.png)
 
+---
+
 ### Fase 2 - Configuració i Seguretat del Servei SSH
 A continuació, accedirem a la configuració de **Escritorio Remoto.** Allà activarem la primera opció. Un cop activada, es mostrarà el nom del nostre equip, informació que necessitarem més endavant per completar la configuració.
 
