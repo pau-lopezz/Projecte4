@@ -27,6 +27,6 @@ A més, cal disposar d’un compte personal de Google amb accés a Google Drive,
 2. Accedeix a la configuració de la màquina
  Menú: Configuració → Emmagatzematge
 3. Crea el disc dur virtual nou
-- Capacitat: 10 GB
-- Format: VDI (o equivalent segons el programari de virtualització)
-- Associa’l a un controlador SATA per obtenir millor rendiment.
+   - Capacitat: 10 GB
+   - Format: VDI (o equivalent segons el programari de virtualització)
+   - Associa’l a un controlador SATA per obtenir millor rendiment.
