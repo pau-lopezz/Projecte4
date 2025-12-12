@@ -34,6 +34,7 @@ Aquesta pràctica simula situacions reals de suport tècnic on el consultor ha d
 - Acceptar certificat i iniciar sessió
 
 ### 📝 Fase 4 – Conclusió
+
 ---
 
 📎 Accés a la tasca
@@ -42,8 +43,8 @@ Tots els detalls, explicacions i captures estan disponibles a l’informe comple
 👉 [**Enllaç a la tasca**](./SOLUCIO.MD)
 <hr style="border:0.5px solid #ccc;" />
 
-🖼️ Imatges de la pràctica
-
-Totes les captures utilitzades en aquesta pràctica estan disponibles a la carpeta d’imatges del projecte:
+🖼️ Totes les captures utilitzades en aquesta pràctica estan disponibles a la carpeta d’imatges del projecte:
 
 📁 [**Enllaç a la carpeta**](./IMG)
+
+---
