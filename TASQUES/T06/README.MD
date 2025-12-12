@@ -4,9 +4,9 @@
 En aquesta pràctica configurarem un entorn de suport remot utilitzant Remote Desktop Protocol (RDP) per permetre connexions bidireccionals entre Windows i Zorin OS.
 Primer prepararem les màquines virtuals i la xarxa, i després establirem dues connexions remotes:
 
-Zorin OS → Windows
+**Zorin OS → Windows**
 
-Windows → Zorin OS
+**Windows → Zorin OS**
 
 Aquesta pràctica simula situacions reals de suport tècnic on el consultor ha de prendre control del dispositiu d’un client.
 
