@@ -24,3 +24,9 @@ USUARIWINDOWS\usuarilinux
 ![image](./IMG/4.png)
 
 <hr style="border:0.5px solid #ccc;" />
+
+Quan haguem afegit l’usuari a la màquina Windows, aquesta part quedarà configurada de moment. Ara passarem al Zorin. Obrirem l’aplicació “Remmina”, que ja ve instal·lada per defecte. Remmina és, en essència, el client d’escriptori remot que utilitza Linux. 
+Un cop dins l’aplicació, al cercador de la part superior —com es veu a la imatge— escriurem el nom del PC de Windows, afegint-hi “.local” al final. En el meu cas, per exemple, l’adreça que he introduït és:
+```bash
+paulopezrdp.local
+```
