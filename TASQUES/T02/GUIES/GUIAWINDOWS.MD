@@ -105,3 +105,14 @@ A la pantalla inicial, selecciona **Add backup** i tria l’opció **Configure a
 - Ruta de la carpeta: indica el directori on vols guardar la còpia local.
  Exemple utilitzat en aquesta guia: D:\Backups\Local
 
+![image](../IMG/w7.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+#### Pas 3: Fonts
+Selecciona les carpetes que vols incloure al backup.
+Per a aquest exemple, obre l’opció C: i tria la ruta:
+```bash
+C:\Users\Pau\Documents
+```
+
