@@ -33,6 +33,7 @@ Aquesta pràctica simula situacions reals de suport tècnic on el consultor ha d
 - A Windows, obrir Conexión a Escritorio Remoto i connectar a hostname.local
 - Acceptar certificat i iniciar sessió
 
+### 📝 Fase 4 – Conclusió
 ---
 
 📎 Accés a la tasca
