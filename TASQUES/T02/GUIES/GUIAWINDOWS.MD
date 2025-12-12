@@ -33,22 +33,31 @@ A més, cal disposar d’un compte personal de Google amb accés a Google Drive,
    - Format: VDI (o equivalent segons el programari de virtualització)
    - Associa’l a un controlador SATA per obtenir millor rendiment.
 
-![image](../IMG/w1.png)
+![image](../IMG/w2.png)
 
 <hr style="border:0.5px solid #ccc;" />
 
 #### 2.2 Inicialitzar i formatar el disc nou
-1. Obre l’eina de gestió de discs
+1. Obre l’eina de gestió de discs > Prem Win + R, escriu diskmgmt.msc i confirma amb Enter.
 
-   Prem Win + R, escriu diskmgmt.msc i confirma amb Enter.
+2. Identifica el disc afegit > A la llista apareixerà com a No assignat (per exemple, Disc 1).
 
-2. Identifica el disc afegit
-   A la llista apareixerà com a No assignat (per exemple, Disc 1).
+3. Crea el volum > Fes clic dret sobre l’espai No assignat i selecciona Nou volum simple…. > Accepta el tamany predeterminat i continua amb Següent.
 
-3. Crea el volum
-   Fes clic dret sobre l’espai No assignat i selecciona Nou volum simple….
-   Accepta el tamany predeterminat i continua amb Següent.
+4. Assigna una lletra de unitat > Pots utilitzar la lletra que vulguis (l’exemple habitual és D:). > Prem Següent.
 
-4. Assigna una lletra de unitat
-   Pots utilitzar la lletra que vulguis (l’exemple habitual és D:).
-   Prem Següent.
+5. Defineix el sistema de fitxers
+- Sistema de fitxers: NTFS
+- Activa l’opció Format ràpid > Continua amb Següent i finalitza el procés.
+
+![image](../IMG/w3.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+#### 2.3 Crear la carpeta de destinació
+1. Obre l’Explorador de fitxers de Windows.
+
+2. Accedeix a la unitat que hagis assignat al disc nou (en el meu cas, F:).
+
+3. Crea una carpeta per guardar-hi les còpies locals, amb el nom o ruta que prefereixis.
+Exemple utilitzat en aquesta guia: ``BackupsDuplicati\Local``
