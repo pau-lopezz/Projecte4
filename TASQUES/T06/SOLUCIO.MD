@@ -101,4 +101,4 @@ En conjunt, aquesta tasca ens ajuda a entendre una situació molt habitual en l�
 Gràcies per veure la meva tasca! 🙌
 Si vols continuar revisant més activitats o tornar enrere:
 
-🔙 [Torna enrere](./TASQUES/T06/)
+🔙 [Torna enrere](./README.MD)
