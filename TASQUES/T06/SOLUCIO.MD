@@ -93,3 +93,12 @@ A través d’aquesta pràctica hem pogut configurar i entendre el funcionament 
 El procés s’ha dividit en dues parts: primer Zorin → Windows i posteriorment Windows → Zorin, la qual cosa ens ha permès veure les diferències i similituds entre ambdós sistemes a l’hora de gestionar connexions RDP i VNC. A més, hem après la importància de conceptes com els hostnames, les credencials, els certificats i la necessitat de reiniciar per aplicar configuracions crítiques.
 
 En conjunt, aquesta tasca ens ajuda a entendre una situació molt habitual en l’àmbit professional: el treball remot amb equips propis o de clients. Dominar aquest procés ens permet ser més autònoms, resoldre incidències a distància i millorar el nostre flux de treball en entorns híbrids o completament remots.
+
+---
+
+### 🏁 Final de la tasca
+
+Gràcies per veure la meva tasca! 🙌
+Si vols continuar revisant més activitats o tornar enrere:
+
+[🔙 Torna enrere](../TASQUES/T06/)
