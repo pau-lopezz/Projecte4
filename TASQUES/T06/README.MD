@@ -45,4 +45,4 @@ Tots els detalls, explicacions i captures estan disponibles a l’informe comple
 
 Totes les captures utilitzades en aquesta pràctica estan disponibles a la carpeta d’imatges del projecte:
 
-👉 [**Enllaç a la carpeta**](./IMG)
+📁 [**Enllaç a la carpeta**](./IMG)
