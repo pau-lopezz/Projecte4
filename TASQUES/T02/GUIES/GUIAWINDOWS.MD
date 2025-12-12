@@ -81,3 +81,27 @@ Instal·la l’aplicació > Obre el fitxer descarregat i segueix l’assistent:
 
 Quan el procés acabi, Duplicati quedarà instal·lat com a servei i s’obrirà automàticament al navegador.
 
+![image](../IMG/w5.png)
+
+--- 
+### 4. Configuració del backup local (disc secundari)
+#### 4.1. Creació d’una nova còpia de seguretat
+Accedeix a la interfície web de Duplicati.
+
+A la pantalla inicial, selecciona **Add backup** i tria l’opció **Configure a new backup.**
+
+#### Pas 1: General
+- Nom del backup: indica el nom que vulguis identificar la còpia. (En aquesta guia s’utilitza Còpia a mode d’exemple.)
+
+- Contrasenya: crea una contrasenya segura; és necessària per poder restaurar les dades més endavant.
+
+![image](../IMG/w6.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+#### Pas 2: Destinació
+- Tipus de destinació: selecciona File system (local path or network share).
+
+- Ruta de la carpeta: indica el directori on vols guardar la còpia local.
+ Exemple utilitzat en aquesta guia: D:\Backups\Local
+
