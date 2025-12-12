@@ -61,3 +61,25 @@ A més, cal disposar d’un compte personal de Google amb accés a Google Drive,
 
 3. Crea una carpeta per guardar-hi les còpies locals, amb el nom o ruta que prefereixis.
 Exemple utilitzat en aquesta guia: ``BackupsDuplicati\Local``
+
+![image](../IMG/w4.png)
+
+---
+
+### 3. Instal·lació de Duplicati
+
+Accedeix al lloc web oficial de Duplicati
+Ves a la pàgina de descàrrega: https://www.duplicati.com/download
+
+Baixa la versió adequada per al teu sistema
+Selecciona la versió estable per a Windows i descarrega el fitxer d’instal·lació.
+
+Instal·la l’aplicació > Obre el fitxer descarregat i segueix l’assistent:
+- Accepta les condicions de llicència.
+- Tria l’opció Install for all users.
+- Activa Start Duplicati automatically when Windows starts perquè l’eina s’executi en iniciar el sistema.
+
+
+Finalització de la instal·lació
+Quan el procés acabi, Duplicati quedarà instal·lat com a servei i s’obrirà automàticament al navegador.
+
