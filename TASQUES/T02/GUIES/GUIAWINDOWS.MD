@@ -85,10 +85,13 @@ Quan el procés acabi, Duplicati quedarà instal·lat com a servei i s’obrirà
 
 --- 
 ### 4. Configuració del backup local (disc secundari)
+
 #### 4.1. Creació d’una nova còpia de seguretat
 Accedeix a la interfície web de Duplicati.
 
 A la pantalla inicial, selecciona **Add backup** i tria l’opció **Configure a new backup.**
+
+<hr style="border:0.5px solid #ccc;" />
 
 #### Pas 1: General
 - Nom del backup: indica el nom que vulguis identificar la còpia. (En aquesta guia s’utilitza Còpia a mode d’exemple.)
