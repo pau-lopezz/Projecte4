@@ -37,6 +37,7 @@ paulopezrdp.local
 <hr style="border:0.5px solid #ccc;" />
 
 A continuació, apareixerà una finestra emergent amb les credencials RDP. Aquí haurem d’introduir l’usuari i la contrasenya corresponents al PC de Windows. Un cop feta l’autenticació, simplement premem “OK” per continuar.
+
 ![image](./IMG/6.png)
 
 <hr style="border:0.5px solid #ccc;" />
@@ -49,6 +50,8 @@ Si hem completat tots els passos de manera correcta, la connexió remota s’est
 Després d’haver establert la connexió de Zorin cap a Windows, passarem a la segona part, que consisteix a fer el procés invers: connectar-nos des de Windows al Zorin.
 
 Per començar, obrirem la Configuració del Zorin i anirem a Sistema. Allà activarem les dos primeres opcions “Escriptori compartit” i “Control remot”. Cal tenir en compte que Zorin genera una contrasenya automàtica. És recomanable substituir-la per una contrasenya pròpia.
+
 ![image](./IMG/7.png)
 
 <hr style="border:0.5px solid #ccc;" />
+
