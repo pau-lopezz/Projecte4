@@ -18,4 +18,15 @@ Per dur a terme la configuració, es treballarà amb una màquina virtual amb Wi
 A més, cal disposar d’un compte personal de Google amb accés a Google Drive, un usuari local de Windows per gestionar l’equip i connexió a Internet, necessària tant per instal·lar Duplicati com per sincronitzar les còpies de seguretat amb el núvol.
 
 ![image](../IMG/w1.png)
+
 <hr style="border:0.5px solid #ccc;" />
+
+#### 2.1 Creació i assignació del disc secundari
+1. Apaga la màquina virtual
+ Els canvis d’emmagatzematge s’han de fer amb la VM tancada.
+2. Accedeix a la configuració de la màquina
+ Menú: Configuració → Emmagatzematge
+3. Crea el disc dur virtual nou
+- Capacitat: 10 GB
+- Format: VDI (o equivalent segons el programari de virtualització)
+- Associa’l a un controlador SATA per obtenir millor rendiment.
