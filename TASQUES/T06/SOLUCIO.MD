@@ -44,6 +44,7 @@ A continuació, apareixerà una finestra emergent amb les credencials RDP. Aquí
 
 Si hem completat tots els passos de manera correcta, la connexió remota s’establirà sense problemes i podrem accedir i utilitzar l’ordinador al qual ens estem connectant. A la imatge es pot veure que apareix “windowsrdp”, cosa que confirma que hem entrat al PC correcte i que la connexió s’ha configurat satisfactòriament.
 
+![image](./IMG/7.png)
 ---
 
 ### Fase 3 – Connexió des de Windows
@@ -51,7 +52,15 @@ Després d’haver establert la connexió de Zorin cap a Windows, passarem a la 
 
 Per començar, obrirem la Configuració del Zorin i anirem a Sistema. Allà activarem les dos primeres opcions “Escriptori compartit” i “Control remot”. Cal tenir en compte que Zorin genera una contrasenya automàtica. És recomanable substituir-la per una contrasenya pròpia.
 
-![image](./IMG/7.png)
+![image](./IMG/8.png)
 
 <hr style="border:0.5px solid #ccc;" />
+
+Un cop tinguem les opcions activades i la contrasenya modificada, passarem a Windows. Allà cercarem l'aplicació “Conexió a Escriptori Remot”. No caldrà modificar cap configuració, ja que es detectarà automàticament. Simplement premem “Connectar”.
+
+En aquest punt, haurem d’introduir el hostname del nostre sistema Linux, afegint-hi “.local” al final. Per exemple:
+```bash
+nomlinux.local
+```
+És molt important reiniciar perquè tots els canvis es guardin i s’apliquin correctament.
 
