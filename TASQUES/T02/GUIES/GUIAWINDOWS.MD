@@ -79,7 +79,5 @@ Instal·la l’aplicació > Obre el fitxer descarregat i segueix l’assistent:
 - Tria l’opció Install for all users.
 - Activa Start Duplicati automatically when Windows starts perquè l’eina s’executi en iniciar el sistema.
 
-
-Finalització de la instal·lació
 Quan el procés acabi, Duplicati quedarà instal·lat com a servei i s’obrirà automàticament al navegador.
 
