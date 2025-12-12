@@ -21,3 +21,6 @@ Aquí hi afegirem els usuaris de les dues màquines. En el cas de combinar un us
 ```bash
 USUARIWINDOWS\usuarilinux
 ```
+![image](./IMG/4.png)
+
+<hr style="border:0.5px solid #ccc;" />
