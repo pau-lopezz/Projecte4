@@ -85,8 +85,6 @@ Quan hàgim acceptat el certificat i completat tots els passos correctament, la 
 
 ![image](./IMG/12.png)
 
-<hr style="border:0.5px solid #ccc;" />
-
 ---
 
 ### Fase 4 - Conclusió
