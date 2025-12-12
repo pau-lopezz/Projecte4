@@ -14,4 +14,10 @@ A continuació, accedirem a la configuració de **Escritorio Remoto.** Allà act
 
 ![image](./IMG/3.png)
 
-Quan ja tinguem l’opció habilitada i sapiguem el nom del nostre ordinador, haurem d’anar a la tercera secció que apareixia a la imatge anterior: “Usuarios de escritorio remoto”. En aquest espai és on indicarem quins usuaris poden accedir-hi. Simplement hem d’afegir-hi els usuaris que utilitzarem tant a la màquina Windows com a la de Zorin, perquè tots dos tinguin permís per connectar-se.
+<hr style="border:0.5px solid #ccc;" />
+
+Quan ja tinguem l’opció activada i coneguem el nom del nostre ordinador, entrarem a la tercera opció que apareixia a la imatge: “Usuarios de escritorio remoto”. Aquest apartat serveix per indicar quins usuaris tindran permís per connectar-s’hi.
+Aquí hi afegirem els usuaris de les dues màquines. En el cas de combinar un usuari de Windows amb un de Linux, ho escriurem d’aquesta manera:
+```bash
+USUARIWINDOWS\usuarilinux
+```
