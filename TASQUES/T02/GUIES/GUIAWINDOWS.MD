@@ -184,8 +184,6 @@ C:\Users\Pau\Documents
 
 ![image](../IMG/w14.png)
 
-<hr style="border:0.5px solid #ccc;" />
-
 --- 
 
 ### 6. Prova de concepte
