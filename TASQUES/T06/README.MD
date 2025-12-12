@@ -39,3 +39,9 @@ Aquesta pràctica simula situacions reals de suport tècnic on el consultor ha d
 Tots els detalls, explicacions i captures estan disponibles a l’informe complet de la pràctica:
 
 👉 [**Enllaç a la tasca**](./SOLUCIO.MD)
+<hr style="border:0.5px solid #ccc;" />
+
+🖼️ Imatges de la pràctica
+
+Totes les captures utilitzades en aquesta pràctica estan disponibles a la carpeta d’imatges del projecte:
+👉 [**Enllaç a la carpeta**](./IMG)
