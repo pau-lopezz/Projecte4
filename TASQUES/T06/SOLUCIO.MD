@@ -45,6 +45,7 @@ A continuació, apareixerà una finestra emergent amb les credencials RDP. Aquí
 Si hem completat tots els passos de manera correcta, la connexió remota s’establirà sense problemes i podrem accedir i utilitzar l’ordinador al qual ens estem connectant. A la imatge es pot veure que apareix “windowsrdp”, cosa que confirma que hem entrat al PC correcte i que la connexió s’ha configurat satisfactòriament.
 
 ![image](./IMG/7.png)
+
 ---
 
 ### Fase 3 – Connexió des de Windows
@@ -64,3 +65,33 @@ nomlinux.local
 ```
 És molt important reiniciar perquè tots els canvis es guardin i s’apliquin correctament.
 
+![image](./IMG/9.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+A continuació, el sistema ens sol·licitarà les credencials del compte de Linux que hem modificat abans (L'usuari per defecte i la contrasenya aleatòria que hem recomenat substituir-la). Això és necessari perquè pugui validar que la connexió es fa de manera segura i que estem accedint a un equip propi o d’un client, i no a un dispositiu desconegut.
+
+![image](./IMG/10.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+Després d’introduir les credencials de l’usuari de Windows, el sistema ens preguntarà si volem acceptar el certificat. És un pas equivalent al que ja vam fer anteriorment amb el Zorin. En aquest cas, seleccionarem “Sí” i marcarem l’opció perquè no torni a mostrar aquest avís en futures connexions.
+
+![image](./IMG/11.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+Quan hàgim acceptat el certificat i completat tots els passos correctament, la connexió remota de Windows cap a Zorin hauria de funcionar sense problemes. Tal com es mostra a la captura, podem veure la sessió de Zorin executant-se des del meu Windows mitjançant l’eina de Connexió Remota.
+
+![image](./IMG/12.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+---
+
+### Fase 4 - Conclusió
+A través d’aquesta pràctica hem pogut configurar i entendre el funcionament de les connexions remotes entre sistemes operatius diferents, en aquest cas Windows i Zorin OS. Hem comprovat com, aplicant una correcta configuració de xarxa, permisos d’usuari i eines de connexió remota, és possible accedir i controlar un equip extern de forma segura i eficient.
+
+El procés s’ha dividit en dues parts: primer Zorin → Windows i posteriorment Windows → Zorin, la qual cosa ens ha permès veure les diferències i similituds entre ambdós sistemes a l’hora de gestionar connexions RDP i VNC. A més, hem après la importància de conceptes com els hostnames, les credencials, els certificats i la necessitat de reiniciar per aplicar configuracions crítiques.
+
+En conjunt, aquesta tasca ens ajuda a entendre una situació molt habitual en l’àmbit professional: el treball remot amb equips propis o de clients. Dominar aquest procés ens permet ser més autònoms, resoldre incidències a distància i millorar el nostre flux de treball en entorns híbrids o completament remots.
