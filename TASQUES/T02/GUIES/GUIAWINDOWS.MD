@@ -192,7 +192,7 @@ C:\Users\Pau\Documents
 ### 6. Prova de concepte
 1. Crear fitxers de prova
  - Afegeix alguns arxius a:
- - C:\Users\Pau\Documents > (exemple: informe_secret.txt)
+ - C:\Users\Pau\Documents > (exemple: provaduplicati.txt)
 
 2. Executar els backups manualment
  A Duplicati, utilitza el botó Run now en tots dos backups (local i núvol).
