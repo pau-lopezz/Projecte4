@@ -149,9 +149,8 @@ Un cop hagis completat tots els passos de configuració, la pantalla final hauri
   1. Inicia sessió al teu compte personal de Google.
   2. A Google Drive, crea una carpeta destinada a guardar-hi les còpies de seguretat.
 
-´´  
-Exemple utilitzat en aquesta guia: Backups_duplicati
-´´
+Exemple utilitzat en aquesta guia: ´´Backups_duplicati´´
+
 
 ![image](../IMG/w12.png)
 
