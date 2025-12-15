@@ -148,6 +148,7 @@ Un cop hagis completat tots els passos de configuració, la pantalla final hauri
 #### 5.1. Preparació a Google Drive
   1. Inicia sessió al teu compte personal de Google.
   2. A Google Drive, crea una carpeta destinada a guardar-hi les còpies de seguretat.
+
 ´´  
 Exemple utilitzat en aquesta guia: Backups_duplicati
 ´´
