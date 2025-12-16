@@ -321,6 +321,8 @@ sudo /root/incrementalbackup.sh
 
 Ara afegim aquest script al cron també, tornem com a root a crontab amb ``sudo contrab -e`` 
 
+![image](../IMG/l30.png)
+
 I, a sota de la línia anterior, afegim:
 
 I a sota de la línia anterior, afegim:
@@ -328,6 +330,6 @@ I a sota de la línia anterior, afegim:
 0 23 * * 1-6 /root/incrementalbackup.sh
 ```
 
-![image](../IMG/l30.png)
+![image](../IMG/l31.png)
 
 <hr style="border:0.5px solid #ccc;" />
