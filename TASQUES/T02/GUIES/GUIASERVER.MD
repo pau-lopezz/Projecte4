@@ -319,7 +319,7 @@ sudo /root/incrementalbackup.sh
 
 <hr style="border:0.5px solid #ccc;" />
 
-Ara afegim aquest script al cron també, tornem com a root a crontab amb ``sudo contrab -e`` 
+Ara afegim aquest script al cron també, tornem com a root a crontab amb ``sudo crontab -e`` 
 
 ![image](../IMG/l30.png)
 
