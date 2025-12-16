@@ -11,3 +11,5 @@ Per començar, necessitarem una màquina virtual amb Zorin instal·lat. A aquest
 ![image](../IMG/l1.png)
 
 <hr style="border:0.5px solid #ccc;" />
+
+Quan accedim a la màquina, podem comprovar amb ``lsblk`` que el disc addicional està sent detectat.
