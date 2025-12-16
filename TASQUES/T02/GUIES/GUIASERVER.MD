@@ -16,7 +16,7 @@ Quan accedim a la màquina, podem comprovar amb ``lsblk`` que el disc addicional
 
 ![image](../IMG/l2.png)
 
->> Nota important: Si no tenim fdisk haurem d’instal·lar-lo amb ``sudo apt install fsdisk``
+> Nota important: Si no tenim fdisk haurem d’instal·lar-lo amb ``sudo apt install fsdisk``
 
 <hr style="border:0.5px solid #ccc;" />
 
