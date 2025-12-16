@@ -25,3 +25,21 @@ Crearem una nova partició al disc addicional ``sdb`` utilitzant la comanda seg�
 ```bash
 sudo fdisk /dev/sdb
 ```` 
+
+![image](../IMG/l3.png)
+
+<hr style="border:0.5px solid #ccc;" />
+
+Un cop aparegui el menú, seguirem les següents instruccions:
+
+- ``n`` → Crear una nova partició
+
+- p → Definir-la com a partició primària
+
+- Enter → Acceptar el número de partició per defecte
+
+- Enter → Acceptar el primer sector per defecte
+
+- Enter → Acceptar l’últim sector per defecte
+
+- w → Guardar els canvis i sortir del menú
