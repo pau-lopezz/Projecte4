@@ -175,6 +175,8 @@ Ara restaurarem els fitxers utilitzant Duplicity.
 sudo duplicity restore file:///media/backup/home-backup /home/restored 
 ```
 
+![image](../IMG/l19.png)
+
 I si executem:
 
 ```bash
@@ -183,7 +185,7 @@ ls /home/restored/usuari
 
 Podrem veure que els fitxers s’han restaurat correctament i tornen a estar disponibles.
 
-![image](../IMG/l19.png)
+![image](../IMG/l40.png)
 
 <hr style="border:0.5px solid #ccc;" />
 
