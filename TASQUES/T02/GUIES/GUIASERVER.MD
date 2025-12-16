@@ -101,7 +101,7 @@ A continuació, instal·larem Duplicity, l’eina que ens permetrà automatitzar
 sudo apt install duplicity -y 
 ```
 
-![image](../IMG/l0.png)
+![image](../IMG/l10.png)
 
 <hr style="border:0.5px solid #ccc;" />
 
@@ -268,7 +268,7 @@ I el provem manualment
 sudo /root/fullbackup.sh
 ```
 
-![image](../IMG/l25png)
+![image](../IMG/l25.png)
 
 Si no apareixen errors, l’script funciona correctament.
 
@@ -280,13 +280,13 @@ A continuació, programem la seva execució automàtica amb cron. Obrim el fitxe
 0 23 * * 0 /root/fullbackup.sh
 ```
 
-![image](../IMG/l26png)
+![image](../IMG/l26.png)
 
 <hr style="border:0.5px solid #ccc;" />
 
 Finalment, podem verificar que els canvis s’han guardat correctament amb:
 
-![image](../IMG/l27png)
+![image](../IMG/l27.png)
 
 <hr style="border:0.5px solid #ccc;" />
 
@@ -297,7 +297,7 @@ Ara crearem un altre script iugal al d'abans, però que realitzarà còpies incr
 sudo nano /root/incrementalbackup.sh
 ```
 
-![image](../IMG/l28png)
+![image](../IMG/l28.png)
 
 <hr style="border:0.5px solid #ccc;" />
 
@@ -313,7 +313,7 @@ I el provem manualment
 sudo /root/incrementalbackup.sh
 ```
 
-![image](../IMG/l29png)
+![image](../IMG/l29.png)
 
 <hr style="border:0.5px solid #ccc;" />
 
@@ -326,6 +326,6 @@ I a sota de la línia anterior, afegim:
 0 23 * * 1-6 /root/incrementalbackup.sh
 ```
 
-![image](../IMG/l30png)
+![image](../IMG/l30.png)
 
 <hr style="border:0.5px solid #ccc;" />
