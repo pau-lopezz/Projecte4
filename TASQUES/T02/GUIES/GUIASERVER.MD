@@ -20,3 +20,8 @@ Quan accedim a la màquina, podem comprovar amb ``lsblk`` que el disc addicional
 
 <hr style="border:0.5px solid #ccc;" />
 
+Crearem una nova partició al disc addicional ``sdb`` utilitzant la comanda següent. Aquesta acció ens permetrà definir un espai d’emmagatzematge independent dins del disc que després podrem formatar i muntar per utilitzar-lo com a unitat auxiliar.
+
+```bash
+sudo fdisk /dev/sdb
+```` 
