@@ -6,6 +6,8 @@ L’objectiu principal de la tasca és **compartir una impressora virtual** des 
 
 Durant la pràctica es treballa amb **dues màquines virtuals**: un servidor amb *Ubuntu Server*, encarregat de gestionar el servei CUPS, i un client amb *Zorin OS*, que es connecta al servidor per utilitzar la impressora compartida.
 
+---
+
 ### 📌 Fases de la pràctica
 1. Instal·lació del servei **CUPS** al servidor.  
 2. Instal·lació d’una **impressora virtual PDF**.  
@@ -16,3 +18,6 @@ Durant la pràctica es treballa amb **dues màquines virtuals**: un servidor amb
 7. Verificar al servidor la generació dels **fitxers PDF**.
 
 Aquesta tasca permet entendre de manera pràctica el funcionament d’un **servidor d’impressió Linux**, la gestió de permisos d’usuari i el flux complet d’impressió en un entorn de xarxa.
+
+---
+
