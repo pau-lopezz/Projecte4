@@ -70,9 +70,7 @@ Ara, dins del mateix fitxer de configuració, cal permetre l’accés des de la 
 
 Ho fem aplicant les següents modificacions:
 
-| **ABANS** | **DESPRÉS** |
-|-----------|-------------|
-| ![image](./IMG/7.png) | ![image](./IMG/8.png) |
+A ![image](./IMG/7.png)   D ![image](./IMG/8.png) 
 
 
 
