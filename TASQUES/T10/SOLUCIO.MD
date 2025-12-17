@@ -203,9 +203,5 @@ Gràcies per dedicar temps a revisar aquest treball.
 Espero que el contingut hagi estat clar, entenedor i útil per comprendre tant el procés seguit com els resultats obtinguts. 🙏
 
 
-![GitHub](https://img.shields.io/badge/GitHub-Pau%20Lopez-4c7cff?style=for-the-badge&logo=github&logoColor=white)
-![Author](https://img.shields.io/badge/Author-Pau%20Lopez-4c7cff?style=for-the-badge)
-![Sistema](https://img.shields.io/badge/Sistema-Linux-4c7cff?style=for-the-badge&logo=linux&logoColor=white)
-![Servei](https://img.shields.io/badge/Servei-CUPS-4c7cff?style=for-the-badge)
-![Projecte](https://img.shields.io/badge/Tipus-PoC-4c7cff?style=for-the-badge)
-
+![GitHub](https://img.shields.io/badge/GitHub-Pau%20Lopez-000000?style=for-the-badge&logo=github&logoColor=white)
+![Autor](https://img.shields.io/badge/Pau%20Lopez-Author-000000?style=for-the-badge)
