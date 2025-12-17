@@ -40,7 +40,7 @@ sudo apt update && sudo apt upgrade -y`
 sudo nano /etc/netplan/50-cloud-init.yaml
 ```
 
-Configurar correctament les interfícies de xarxa és crucial per al funcionament del NFS. En aquest cas, s'han configurat dues interfícies: una per a Internet (dhcp4: true) i una per a la xarxa interna entre servidor i client.
+La correcta configuració de les **interfícies de xarxa** és fonamental per al bon funcionament del servei NFS. En aquest cas, s’han definit **dues interfícies**: una destinada a la connexió a Internet (amb `dhcp4: true`) i una altra per a la **xarxa interna** que permet la comunicació directa entre el servidor i el client.
 
 ### **Creació de grups**
 
