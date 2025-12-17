@@ -193,6 +193,8 @@ Finalment, comprovem amb la comanda ``ls -all`` que s’ha creat correctament el
 
 ---
 
+### Conclusió
+
 Amb aquesta prova de concepte hem pogut comprovar el correcte funcionament del servei CUPS, des de la seva instal·lació i configuració fins a la gestió d’una impressora virtual accessible des del client. Les proves d’impressió realitzades confirmen que la comunicació entre client i servidor és correcta i que els treballs es processen adequadament, validant així la solució implementada.
 
 ---
