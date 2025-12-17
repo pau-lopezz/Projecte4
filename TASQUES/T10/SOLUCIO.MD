@@ -42,6 +42,27 @@ apt install cups-pdf
 ```
 
 ![image](./IMG/5.png)
+
+---
+
+### 3. Configuració de l’administració de CUPS i permetre que CUPS escolti per totes les interfícies.
+
+Per permetre l’administració remota de CUPS i que el servei escolti per totes les interfícies de xarxa, és necessari modificar el fitxer de configuració. Abans de fer canvis, és recomanable editar el fitxer amb cura.
+
+Accedim a l’arxiu de configuració amb:
+```bash
+sudo nano /etc/cups/cupsd.conf
+```
+
+I canviarem aquestes dos líneas:
+```bash
+Listen localhost:631 → Port 631
+Browsing No → Browsing On
+```
+
+
+
+
 ![image](./IMG/6.png)
 ![image](./IMG/7.png)
 ![image](./IMG/8.png)
