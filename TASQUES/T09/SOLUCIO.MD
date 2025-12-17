@@ -24,14 +24,13 @@ En aquest projecte configurarem un servidor NFSv3 i un client Linux per centrali
 ![image](./IMG/3.png)
 
 * Actualitzar els sistemes:
+Abans d’iniciar qualsevol instal·lació, és important actualitzar el sistema per garantir que disposem de les versions més recents dels paquets i de les últimes correccions de seguretat. D’aquesta manera s’eviten possibles errors o conflictes derivats de dependències antigues.
 
 **`sudo apt update && sudo apt upgrade -y`**
 
 ![image](./IMG/4.png)
 
-Abans de començar qualsevol instal·lació, és essencial actualitzar el sistema per assegurar-nos que tenim les últimes versions dels paquets i correccions de seguretat. Aquest pas evita possibles conflictes amb dependències obsoletes.
-
-### 
+--- 
 
 ### **Configuració de xarxa**
 
