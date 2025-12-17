@@ -70,11 +70,12 @@ Ara, dins del mateix fitxer de configuració, cal permetre l’accés des de la 
 
 Ho fem aplicant les següents modificacions:
 
-|Configuració abans dels canvis  |  Configuració després dels canvis
-| ![image](./IMG/7.png)          | ![image](./IMG/8.png)
+| **ABANS** | **DESPRÉS** |
+|-----------|-------------|
+| ![image](./IMG/7.png) | ![image](./IMG/8.png) |
 
-![image](./IMG/7.png)
-![image](./IMG/8.png)
+
+
 ![image](./IMG/9.png)
 ![image](./IMG/10.png)
 ![image](./IMG/11.png)
