@@ -54,16 +54,25 @@ Accedim a l’arxiu de configuració amb:
 sudo nano /etc/cups/cupsd.conf
 ```
 
-I canviarem aquestes dos líneas:
+---
+
+Un cop dins, modifiquem les següents línies per permetre connexions externes i la detecció d’impressores a la xarxa:
 ```bash
 Listen localhost:631 → Port 631
 Browsing No → Browsing On
 ```
 
-
-
-
 ![image](./IMG/6.png)
+
+---
+
+Ara, dins del mateix fitxer de configuració, cal permetre l’accés des de la xarxa local al servidor web de gestió de CUPS, ja que per defecte només accepta connexions locals. Això ens permetrà administrar el servei des d’altres equips de la xarxa.
+
+Ho fem aplicant les següents modificacions:
+
+|Configuració abans dels canvis  |  Configuració després dels canvis
+| ![image](./IMG/7.png)          | ![image](./IMG/8.png)
+
 ![image](./IMG/7.png)
 ![image](./IMG/8.png)
 ![image](./IMG/9.png)
