@@ -21,7 +21,7 @@ En aquest projecte configurarem un servidor NFSv3 i un client Linux per centrali
 
 * Al servidor Ubuntu: habilitar **instal·lació del servei SSH** durant el setup  
 
-![image](./IMG/2.png)
+![image](./IMG/3.png)
 
 * Actualitzar els sistemes:
 
