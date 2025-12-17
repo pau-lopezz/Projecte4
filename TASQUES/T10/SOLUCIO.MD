@@ -78,8 +78,29 @@ Configuració després dels canvis
 
 ![image](./IMG/8.png)
 
+---
+
+Un cop aplicats els canvis al fitxer de configuració, reiniciem el servei de CUPS perquè les modificacions tinguin efecte i comprovem que el servei estigui actiu i funcionant correctament.
+
+```bash
+systemctl restart cups && systemctl status cups
+```
 
 ![image](./IMG/9.png)
+
+---
+
+### 4. Usant el navegador i el frontal web de CUPS compartir la impressora.
+
+Un cop estigui el servei funcionant, haurem d’entrar al nostre navegador i introduir a la barra de busquedes:
+```bash
+https://10.0.2.15:631
+10.0.2.15 > La meva IP del enp0s3
+631 > El port que hem configurat abans 
+```
+> Si ens surt que estem accedint a un lloc no segur, l’hem de donar a  > **Avanzado** > **Acceder a 10.0.2.15 (sitio no seguro)**
+
+
 ![image](./IMG/10.png)
 ![image](./IMG/11.png)
 ![image](./IMG/12.png)
