@@ -44,11 +44,13 @@ La correcta configuració de les **interfícies de xarxa** és fonamental per al
 
 ### **Creació de grups**
 
+```bash
 sudo groupadd devs
 
 sudo groupadd admins
+```
 
-![][image5]
+![image](./IMG/5.png)
 
 ### **Creació d'usuaris**
 
@@ -56,17 +58,18 @@ sudo useradd \-m \-s /bin/bash \-G devs dev01
 
 sudo useradd \-m \-s /bin/bash \-G admins admin01
 
-![][image6]
+![image](./IMG/6.png)
 
 ### **Assignació de contrasenyes**
 
 Haurem d’entrar a \`\`cd /srv\`\` i assignar contrasenyes als usuaris prèviament creats
 
+
 sudo passwd dev01
 
 sudo passwd admin01
 
-![][image7]
+![image](./IMG/7.png)
 
 ### **Creació de directoris compartits**
 
@@ -76,7 +79,7 @@ sudo mkdir \-p /srv/nfs/dev\_projects
 
 sudo mkdir \-p /srv/nfs/admin\_tools
 
-![][image8]
+![image](./IMG/8.png)
 
 ### **Configuració de permisos**
 
@@ -88,7 +91,7 @@ sudo chown root:admins /srv/nfs/admin\_tools
 
 sudo chmod 770 /srv/nfs/admin\_tools
 
- ![][image9]
+ !![image](./IMG/9.png)
 
 Els permisos 770 (rwxrwx---) signifiquen que només el propietari (root) i el grup assignat tenen accés complet, mentre que altres usuaris no tenen cap accés. Això assegura que només els membres dels grups corresponents puguin accedir als seus directoris.
 
@@ -100,13 +103,13 @@ S'instal·la el paquet nfs-kernel-server que proporciona la funcionalitat de ser
 
 sudo apt install nfs-kernel-server \-y
 
-![][image10]
+![image](./IMG/10.png)
 
 ### **Configuració de les exportacions**
 
 sudo nano /etc/exports
 
-![][image11]
+![image](./IMG/11.png)
 
 ### **Inici i habilitació del servei**
 
@@ -116,7 +119,7 @@ sudo systemctl reload nfs-kernel-server
 
 sudo systemctl enable nfs-kernel-server
 
-![][image12]
+![image](./IMG/12.png)
 
 ### **Verificació de les exportacions**
 
@@ -141,7 +144,7 @@ getent group devs
 
 getent group admins
 
-![][image13]
+![image](./IMG/13.png)
 
 ## **Fase 3: Configuració del Client NFS**
 
@@ -149,7 +152,7 @@ getent group admins
 
 ## ping 192.168.56.112
 
- ![][image14]
+![image](./IMG/14.png)
 
 \> La IP, la treiem del nostre enp0s8 del servidor.
 
@@ -159,13 +162,13 @@ sudo apt update \-y && sudo apt upgrade \-y
 
 Durant l'actualització, es configuren múltiples components del sistema incloent Ruby, biblioteques de xarxa, i paquets de seguretat. La regeneració del initramfs és necessària perquè el sistema pugui arrencar correctament després d'actualitzacions del kernel.
 
-![][image15]
+![image](./IMG/15.png)
 
 ### **Instal·lació del client NFS**
 
 sudo apt install nfs-common
 
-![][image16]
+![image](./IMG/16.png)
 
 El paquet nfs-common conté totes les eines necessàries per al client NFS, incloent:
 
@@ -177,7 +180,7 @@ El paquet nfs-common conté totes les eines necessàries per al client NFS, incl
 
 sudo showmount \-e 192.168.56.112
 
-![][image17]
+![image](./IMG/17.png)
 
 La comanda showmount mostra que el servidor comparteix dos recursos:
 
@@ -190,7 +193,7 @@ sudo groupadd \-g 1001 devs
 
 sudo groupadd \-g 1002 admins
 
-![][image18]
+![image](./IMG/18.png)
 
 És crític que els GID coincideixin exactament entre servidor i client. El NFS identifica usuaris i grups pels seus identificadors numèrics (UID/GID), no pels noms. Si els números no coincideixen, els permisos no funcionaran correctament.
 
@@ -200,7 +203,7 @@ sudo useradd \-m \-u 1001 \-g devs dev01
 
 sudo useradd \-m \-u 1002 \-g admins admin01
 
-![][image19]
+![image](./IMG/19.png)
 
 Els UID també han de coincidir amb els del servidor:
 
@@ -213,7 +216,7 @@ sudo passwd dev01
 
 sudo passwd admin01
 
-![][image20]
+![image](./IMG/20.png)
 
 ### **Creació de punts de muntatge**
 
@@ -221,7 +224,7 @@ sudo mkdir \-p /mnt/admin\_tools
 
 sudo mkdir \-p /mnt/dev\_projects
 
-![][image21]
+![image](./IMG/21.png)
 
 Els directoris /mnt/ són la ubicació estàndard per a dispositius i recursos muntats temporalment. La separació en dos directoris diferents permet organitzar l'accés als diferents tipus de recursos.
 
@@ -229,7 +232,7 @@ Els directoris /mnt/ són la ubicació estàndard per a dispositius i recursos m
 
 sudo mount \-t nfs 192.168.56.112:/srv/nfs/admin\_tools /mnt/admin\_tools
 
-![][image22]
+![image](./IMG/22.png)
 
 La comanda mount estableix la connexió entre el recurs remot i el directori local. L'opció \-t nfs especifica el tipus de sistema de fitxers, i la sintaxi servidor:ruta indica quin recurs muntar.
 
@@ -237,7 +240,7 @@ La comanda mount estableix la connexió entre el recurs remot i el directori loc
 
 sudo touch /mnt/admin\_tools/proval.txt
 
-![][image23]
+![image](./IMG/23.png)
 
 La creació d'un fitxer com a root demostra que el muntatge funciona i que tenim permisos d'escriptura. Aquest test valida que la connexió NFS està activa i que les opcions rw (read-write) a /etc/exports estan funcionant.
 
@@ -245,7 +248,7 @@ La creació d'un fitxer com a root demostra que el muntatge funciona i que tenim
 
 ls \-l /mnt/admin\_tools
 
-![Verificació fitxer][image24]
+![image](./IMG/24.png)
 
 El fitxer proval.txt apareix amb propietari root:root i permisos 644\. Aquest és el comportament esperat quan s'utilitza root\_squash (opció per defecte), que converteix operacions de root del client en usuari nobody al servidor per seguretat.
 
@@ -257,7 +260,9 @@ sudo mount \-t nfs 192.168.56.112:/srv/nfs/admin\_tools /mnt/admin\_tools
 
 sudo touch /mnt/admin\_tools/prova2.txt
 
-![Desmuntatge][image25] ![Remuntatge][image26] ![Segona prova escriptura][image27]
+![image](./IMG/25.png)
+![image](./IMG/26.png)
+![image](./IMG/27.png)
 
 Aquest procés de desmuntar i tornar a muntar demostra:
 
@@ -267,7 +272,8 @@ Aquest procés de desmuntar i tornar a muntar demostra:
 
 ### **Interfície gràfica del client**
 
-![][image28]
+![image](./IMG/28.png)
+
 
 La interfície gràfica del Zorin OS mostra les ubicacions favorites i permet navegar pels recursos muntats. Aquesta és la forma en què els usuaris finals (desenvolupadors i administradors) interactuaran amb els recursos compartits.
 
@@ -275,7 +281,8 @@ La interfície gràfica del Zorin OS mostra les ubicacions favorites i permet na
 
 ### **Problema d'accés des de l'explorador gràfic**
 
-![][image29]
+![image](./IMG/29.png)
+
 
 L'explorador gràfic mostra un error de permisos quan intenta accedir a /mnt/admin\_tools. Aquest problema succeeix perquè:
 
@@ -292,13 +299,15 @@ sudo nano /etc/fstab
 
 El fitxer /etc/fstab (File System Table) conté la informació dels sistemes de fitxers que s'han de muntar automàticament durant l'arrencada del sistema.
 
-![][image30]
+![image](./IMG/30.png)
 
 S'afegeixen dues línies al final del fitxer:
 
+```bash
 192.168.56.112:/srv/nfs/admin\_tools /mnt/admin\_tools nfs defaults 0 0
 
 192.168.56.112:/srv/nfs/dev\_projects /mnt/dev\_projects nfs defaults 0 0
+´``` 
 
 Explicació de cada camp:
 
@@ -330,13 +339,13 @@ Després del reinici, es comprova que els recursos NFS s'han muntat automàticam
 
 ### **Visualització dels directoris muntats a l'explorador**
 
-![][image31]
+![image](./IMG/31.png)
 
 L'explorador gràfic ara mostra les dues carpetes muntades (admin\_tools i dev\_projects) a la ubicació /mnt/. Tot i que l'explorador pot mostrar les carpetes, l'accés al contingut encara pot estar restringit per permisos.
 
 ### **Pantalla d'inici de sessió del client**
 
-![][image32]
+![image](./IMG/32.png)
 
 La pantalla d'inici de sessió mostra els tres usuaris configurats:
 
@@ -348,23 +357,46 @@ Aquests usuaris poden iniciar sessió individualment per provar els permisos d'a
 
 ## **Anàlisi i Conclusions**
 
-### **Èxits de la implementació:**
+### Resultats de la implementació
 
-1. Servidor NFS configurat correctament: Exporta dos directoris amb permisos específics  
-2. Client NFS funcionant: Pot muntar i accedir als recursos compartits  
-3. Sincronització UID/GID: Els identificadors coincideixen entre servidor i client  
-4. Muntatge automàtic configurat: Els recursos es munten automàticament en l'arrencada  
-5. Connectivitat verificada: Ping i muntatges funcionen sense errors de xarxa
+1. **Servidor NFS operatiu:**  
+   S’han exportat correctament dos directoris amb permisos diferenciats segons l’ús.
 
-### **Limitacions identificades:**
+2. **Client NFS funcional:**  
+   El client pot muntar i accedir als recursos compartits sense incidències.
 
-1. Gestió manual d'usuaris: Cal crear usuaris manualment a totes les màquines  
-2. Depenència de UID/GID: Els permisos fallen si els identificadors no coincideixen  
-3. Seguretat bàsica: Sense autenticació centralitzada o xifrat  
-4. Problemes amb explorador gràfic: L'accés des de GUI pot tenir problemes de permisos
+3. **UID/GID sincronitzats:**  
+   Els identificadors d’usuari i grup coincideixen entre servidor i client, garantint els permisos correctes.
 
-### **Avaluació de la solució:**
+4. **Muntatge automàtic configurat:**  
+   Els recursos NFS es munten automàticament durant l’arrencada del sistema.
 
-La implementació demostra que el NFS és una solució viable per a centralitzar fitxers en entorns Linux, però requereix una gestió acurada dels permisos i identificadors d'usuari. Per a entorns petits com DevOptimize Solutions, aquesta solució pot ser suficient, però per a creixement futur es recomana migrar a una infraestructura més robusta amb autenticació centralitzada.
+5. **Connectivitat validada:**  
+   Les proves de xarxa (ping i muntatge) funcionen correctament, sense errors.
 
-La prova de concepte està completada amb èxit: El client pot accedir als recursos compartits, els permisos funcionen segons els grups, i el muntatge automàtic assegura disponibilitat constant dels recursos.
+---
+
+### Limitacions detectades
+
+1. **Gestió manual d’usuaris:**  
+   És necessari crear manualment els usuaris a cada equip.
+
+2. **Dependència de UID/GID:**  
+   Qualsevol desajust en els identificadors pot provocar errors de permisos.
+
+3. **Seguretat limitada:**  
+   No s’utilitza autenticació centralitzada ni xifrat de dades.
+
+4. **Accés via interfície gràfica:**  
+   Poden aparèixer problemes de permisos en l’ús d’exploradors gràfics.
+
+---
+
+### Valoració final de la solució
+
+Aquesta implementació demostra que **NFS és una solució vàlida per centralitzar fitxers en entorns Linux**, sempre que es gestioni correctament la configuració de permisos i identificadors d’usuari.
+
+Per a entorns petits com **DevOptimize Solutions**, aquesta solució és suficient i funcional. No obstant això, de cara a un possible creixement, es recomana evolucionar cap a una infraestructura més robusta amb autenticació centralitzada.
+
+La prova de concepte s’ha completat amb èxit: el client accedeix als recursos compartits, els permisos es gestionen correctament mitjançant grups i el muntatge automàtic garanteix una disponibilitat constant del servei.
+
