@@ -8,7 +8,7 @@ En aquest projecte configurarem un servidor NFSv3 i un client Linux per centrali
 * **Servidor:** Ubuntu Server 24.04 LTS  
 * **Client:** Zorin OS 18
 
-![img][../IMG/1.png]
+!(img)[../IMG/1.png]
 
 ### **Xarxes configurades**
 
