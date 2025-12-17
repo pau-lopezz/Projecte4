@@ -202,4 +202,4 @@ Amb aquesta prova de concepte hem pogut comprovar el correcte funcionament del s
 Gràcies per dedicar temps a revisar aquest treball.
 Espero que el contingut hagi estat clar, entenedor i útil per comprendre tant el procés seguit com els resultats obtinguts. 🙏
 
-![Status](https://img.shields.io/badge/Estat-Complet-success)
+![GitHub](https://img.shields.io/badge/GitHub-Pau%20Lopez-181717?logo=github&logoColor=white)
