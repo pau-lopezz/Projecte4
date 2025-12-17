@@ -204,4 +204,4 @@ Espero que el contingut hagi estat clar, entenedor i útil per comprendre tant e
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-Pau%20Lopez-000000?style=for-the-badge&logo=github&logoColor=white)
-![Autor](https://img.shields.io/badge/Pau%20Lopez-Author-000000?style=for-the-badge)
+![Sistema](https://img.shields.io/badge/Sistema-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
