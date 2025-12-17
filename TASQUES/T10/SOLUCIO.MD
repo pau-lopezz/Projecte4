@@ -132,7 +132,7 @@ Quan hi accedim, no se’ns permetrà realitzar cap acció a causa de la falta d
 
 ---
 
-Per aquest motiu, haurem de tornar a la terminal i afegir l’usuari inicial al grup lpadmin, que és el grup amb permisos d’administració de CUPS. 
+Per aquest motiu, haurem de tornar a la terminal, entrar com a ``sudo su`` i afegir l’usuari inicial al grup lpadmin, que és el grup amb permisos d’administració de CUPS. 
 ```bash
 usermod -aG ldapmin usuari
 id usuari # Per comprovar
