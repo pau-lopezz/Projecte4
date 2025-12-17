@@ -202,23 +202,10 @@ Amb aquesta prova de concepte hem pogut comprovar el correcte funcionament del s
 Gràcies per dedicar temps a revisar aquest treball.
 Espero que el contingut hagi estat clar, entenedor i útil per comprendre tant el procés seguit com els resultats obtinguts. 🙏
 
-<!-- Badge GitHub - Nom -->
-![GitHub](https://img.shields.io/badge/GitHub-Pau%20Lopez-181717?logo=github&logoColor=white)
 
-<!-- Badge Autor -->
-![Author](https://img.shields.io/badge/Author-Pau%20Lopez-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Pau%20Lopez-4c7cff?style=for-the-badge&logo=github&logoColor=white)
+![Author](https://img.shields.io/badge/Author-Pau%20Lopez-4c7cff?style=for-the-badge)
+![Sistema](https://img.shields.io/badge/Sistema-Linux-4c7cff?style=for-the-badge&logo=linux&logoColor=white)
+![Servei](https://img.shields.io/badge/Servei-CUPS-4c7cff?style=for-the-badge)
+![Projecte](https://img.shields.io/badge/Tipus-PoC-4c7cff?style=for-the-badge)
 
-<!-- Badge Creador -->
-![Creator](https://img.shields.io/badge/Creator-Pau%20Lopez-informational)
-
-<!-- Badge Perfil GitHub -->
-![GitHub Profile](https://img.shields.io/badge/GitHub-@Pau%20Lopez-181717?logo=github)
-
-<!-- Badge Sistema -->
-![Linux](https://img.shields.io/badge/Sistema-Linux-FCC624?logo=linux&logoColor=black)
-
-<!-- Badge Servei -->
-![CUPS](https://img.shields.io/badge/Servei-CUPS-orange)
-
-<!-- Badge Tipus Projecte -->
-![PoC](https://img.shields.io/badge/Tipus-PoC-success)
