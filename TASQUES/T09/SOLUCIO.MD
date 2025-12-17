@@ -26,7 +26,9 @@ En aquest projecte configurarem un servidor NFSv3 i un client Linux per centrali
 * Actualitzar els sistemes:
 Abans d’iniciar qualsevol instal·lació, és important actualitzar el sistema per garantir que disposem de les versions més recents dels paquets i de les últimes correccions de seguretat. D’aquesta manera s’eviten possibles errors o conflictes derivats de dependències antigues.
 
-**`sudo apt update && sudo apt upgrade -y`**
+```bash
+sudo apt update && sudo apt upgrade -y`
+```
 
 ![image](./IMG/4.png)
 
@@ -34,7 +36,9 @@ Abans d’iniciar qualsevol instal·lació, és important actualitzar el sistema
 
 ### **Configuració de xarxa**
 
+```bash
 sudo nano /etc/netplan/50-cloud-init.yaml
+```
 
 Configurar correctament les interfícies de xarxa és crucial per al funcionament del NFS. En aquest cas, s'han configurat dues interfícies: una per a Internet (dhcp4: true) i una per a la xarxa interna entre servidor i client.
 
