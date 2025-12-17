@@ -14,17 +14,20 @@ En aquest projecte configurarem un servidor NFSv3 i un client Linux per centrali
 
 * **NAT:** Accés a Internet  
 * **Host-only:** Comunicació directa entre servidor i client, i possibilitat de connexió SSH al servidor  
-  ![][image2]
+
+![image](./IMG/2.png)
 
 ### **Requisits i configuració inicial**
 
 * Al servidor Ubuntu: habilitar **instal·lació del servei SSH** durant el setup  
-  ![][image3]  
+
+![image](./IMG/2.png)
+
 * Actualitzar els sistemes:
 
 **`sudo apt update && sudo apt upgrade -y`**
 
-**`![][image4]`**
+![image](./IMG/4.png)
 
 Abans de començar qualsevol instal·lació, és essencial actualitzar el sistema per assegurar-nos que tenim les últimes versions dels paquets i correccions de seguretat. Aquest pas evita possibles conflictes amb dependències obsoletes.
 
