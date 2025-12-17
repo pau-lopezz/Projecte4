@@ -304,9 +304,11 @@ El fitxer /etc/fstab (File System Table) conté la informació dels sistemes de 
 S'afegeixen dues línies al final del fitxer:
 
 ```bash
+
 192.168.56.112:/srv/nfs/admin\_tools /mnt/admin\_tools nfs defaults 0 0
 
 192.168.56.112:/srv/nfs/dev\_projects /mnt/dev\_projects nfs defaults 0 0
+
 ´``` 
 
 Explicació de cada camp:
